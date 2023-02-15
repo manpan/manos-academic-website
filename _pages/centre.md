@@ -8,7 +8,7 @@ author_profile: true
 The following are current and previous members of the Internet of Things and Security Centre (ISEC) at the University of Greenwich. 
 
 <div style="background-color: #ddf4ff; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0969da;">
-This section is under update
+This section is currently being updated
 </div>
 
 ## Faculty
@@ -33,7 +33,6 @@ This section is under update
 ### Current
 - Dr Sakshyam Panda, Researcher in Cyber Security and Privacy, Horizon Europe TANGO. 
 - Dr Hsueh-Ju Chen, Researcher in Security for AI, EPSRC CHAI.
-- L. Akhter – Model-based software security.
 
 ### Previous
 - Dr Caxton Okoh, Researcher in Cyber risk optimisation, H2020 CUREX.
@@ -45,6 +44,7 @@ This section is under update
 ## PhD Researchers 
 - Emily Parsons, IoT Cyber Risk Management. 
 - Claire Stretch, Cyber Risk Optimisation for Small Businesses.
+- L. Akhter, Model-based Software Security.
 
 ### Alumni
 - Dr Antonia Nisioti, Supporting the optimal investigation of multi-stage cyber attacks. Moved to SOC Team Lead, Secrutiny, UK.
