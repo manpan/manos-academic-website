@@ -1,0 +1,13 @@
+---
+title: "CUREX - seCUre and pRivate hEalth data eXchange"
+abstract: "The health sector's increasing dependence on digital information and communication infrastructures renders it vulnerable to threats to privacy and cybersecurity, especially as the theft of health data has become particularly lucrative for cyber criminals. At the same time, a breach of integrity of health data can have **dramatic consequences for the patients affected**. CUREX addresses comprehensively the protection of the confidentiality and integrity of health data by producing a novel, flexible and scalable situational awareness-oriented platform. It allows a healthcare provider to assess the realistic cybersecurity and privacy risks they are exposed to and **suggest mathematically optimal strategies for addressing these risks with safeguards tailored specifically for each business case and application**. CUREX is fully GDPR compliant by design. At its core, a decentralised architecture enhanced with a private blockchain infrastructure ensures the integrity of the risk assessment process and of all data transactions that occur between the diverse range of stakeholders involved. Crucially, CUREX expands beyond technical measures and places emphasis also on improving cyber hygiene through training and raising awareness activities for a healthcare institution’s personnel. Its validation focuses on the highly challenging condition of (cross-border) health data exchange, spanning **patient cross-border mobility**, **remote healthcare**, and **data exchange for research**. CUREX consortium will also utilise the outcomes of the well-known MyHealthMyData project in a dedicated demonstration that will use their blockchain-enabled platform which will control the actual data exchange. We envisage that CUREX will impact the European market developing one of the first blockchain platform for risk assessment management under the GDPR."
+collection: projects
+permalink: /project/curex
+date: 2018-12-01
+citation: '<b>Role</b>: P.I., University of Greenwich.<br>
+<b>Research topics:</b> Cyber risk optimisation, cyber investments.<br>
+<b>Team members:</b> Dr Caxton Okoh, Kokulan Natkunam, Dr Sakshyam Panda, Claire Stretch.<br> 
+<b>Funder:</b> <a href = "https://commission.europa.eu/index_en">European Commission</a> as part of the <a href = "https://cinea.ec.europa.eu/programmes/horizon-europe/h2020-programme_en">H2020 programme</a> with Grant agreement ID 826404.<br>
+<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://curex-project.eu">project website</a>
+<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://cordis.europa.eu/project/id/826404">cordis</a>'
+---

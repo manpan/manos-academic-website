@@ -1,0 +1,13 @@
+---
+title: "SPEAR - Secure and PrivatE smArt gRid"
+abstract: "Over the last decade, cyber-attacks have become increasingly sophisticated, stealthy, targeted and multi-faceted which may leverage zero-day exploits and highly creative interdisciplinary attack methods. As our society is becoming increasingly dependent on Critical INfrastructures (CIN), new technologies are needed to increase our detection and response capabilities. Detecting and responding to such attacks by a highly motivated, skilled and well-funded attacker has however been proven highly challenging. One of the most vulnerable and high-impact CIN is the Smart Grid. Smart Grid is considered as the next-generation power system, which promises self-healing, resilience, sustainability and efficiency to the energy Critical Infrastructures (CIN). However, securing smart grids against cyber-attacks is of vital importance for National Security and Public Safety, since the collapse of an energy production utility may cause human lives, millions of euros, denial of a very important and common good such as energy and days or even months of recovering. To this end, SPEAR aims at a) detecting and responding to cyber-attacks using new technologies and capabilities, b) detecting threat and anomalies timely, c) developing all-in-one security detection solutions, d) leveraging advanced forensics subject to privacy-preserving, e) confronting Advanced Persistent Threat (APT) and targeted attacks in smart grids, f) increasing the resilience of the smart grid innovation, g) alleviating the lack of trust in smart grid operators and h) empowering EU-wide consensus. Within SPEAR, four proof-of-concept Use Cases are planned in order to validate and assess the implemented security and privacy tools."
+collection: projects
+permalink: /project/spear
+date: 2018-05-01
+citation: '<b>Role</b>: P.I., University of Surrey.<br>
+<b>Research topics:</b> Game-theoretic deception strategies, honeypots, intrusion detection.<br>
+<b>Team members:</b> Dmitry Fedorenko (Junior researcher), Sakshyam Panda (PhD researcher), Nadia Boumkheld (postdoctoral researcher).<br> 
+<b>Funder:</b> <a href = "https://commission.europa.eu/index_en">European Commission</a> as part of the <a href = "https://cinea.ec.europa.eu/programmes/horizon-europe/h2020-programme_en">H2020 programme</a> with Grant agreement ID 787011.<br>
+<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://curex-project.eu">project website</a>
+<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://cordis.europa.eu/project/id/787011">cordis</a>'
+---
