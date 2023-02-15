@@ -8,5 +8,3 @@ main:
     url: /centre/
   - title: "Miscellaneous" # Teaching, Service, Experience
     url: /miscellaneous/
-  - title: "Contact" 
-    url: /contact/

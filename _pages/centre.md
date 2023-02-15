@@ -23,14 +23,16 @@ The following are current and previous members of the Internet of Things and Sec
 - Dr Ivana Tomic, Senior Lecturer in Cyber Security <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao).
 - Dr Tuan Vuong, Senior Lecturer in Computer Science. 
 
+
 ## Postdoctoral Researchers 
 
 ### Current
 - Dr Sakshyam Panda, Researcher in Cyber Security and Privacy, Horizon Europe TANGO. 
-- Dr Hsueh-Ju Chen, Researcher in Security for AI, EPSRC CHAI. 
+- Dr Hsueh-Ju Chen, Researcher in Security for AI, EPSRC CHAI.
 
 ### Previous
 - Dr Caxton Okoh, Researcher in Cyber risk optimisation, H2020 CUREX.
+
 
 ## PhD Researchers 
 - Emily Parsons, IoT Cyber Risk Management. 
@@ -38,6 +40,7 @@ The following are current and previous members of the Internet of Things and Sec
 
 ### Alumni
 - Dr Antonia Nisioti, Supporting the optimal investigation of multi-stage cyber attacks. Moved to SOC Team Lead, Secrutiny, UK.
+
 
 ## Research Assistants
 
