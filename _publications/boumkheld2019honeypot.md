@@ -8,5 +8,7 @@ venue: '10th Conference on Decision and Game Theory for Security'
 paperurl: '/files/pdf/papers/boumkheld2019honeypot.pdf'
 link: 'https://doi.org/10.1007/978-3-030-32430-8_6'
 slidesurl: '/files/pdf/slides/boumkheld2019honeypot-slides.pdf'
-citation: 'Nadia Boumkheld, Sakshyam Panda, Stefan Rass, Emmanouil Panaousis (2019). &quot;Honeypot type selection games for smart grid networks.&quot; <i>10th Conference on Decision and Game Theory for Security (Gamesec 2019)</i>'
+citation: 'Nadia Boumkheld, Sakshyam Panda, Stefan Rass, Emmanouil Panaousis (2019). 
+	&quot;Honeypot type selection games for smart grid networks.&quot; 
+	<i>10th Conference on Decision and Game Theory for Security (Gamesec)</i>.'
 ---

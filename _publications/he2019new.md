@@ -7,6 +7,8 @@ date: 2019-04-01
 venue: 'IEEE Access'
 paperurl: '/files/pdf/papers/he2019new.pdf'
 link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678912'
-citation: 'Kai He, Yijun Mao, Jianting Ning, Kaitai Liang, Xinyi Huang, Emmanouil Panaousis, George Loukas (2021). &quot;Automated cyber and privacy risk management toolkit.&quot;<i>IEEE Access</i>, Vol. 7, pp. 50658 - 50668. 
+citation: 'Kai He, Yijun Mao, Jianting Ning, Kaitai Liang, Xinyi Huang, Emmanouil Panaousis, George Loukas (2021). 
+	&quot;Automated cyber and privacy risk management toolkit.&quot;
+	<i>IEEE Access</i>, 7, 50658-50668. 
 	<span style="color:#2979ab;">(JCR 2019: 3.745, CiteScore 2019: 3.9)</span>'
 ---

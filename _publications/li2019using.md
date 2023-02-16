@@ -8,9 +8,9 @@ venue: 'ACM Transactions on Intelligent Systems and Technology'
 paperurl: '/files/pdf/papers/li2019using.pdf'
 link: 'https://dl.acm.org/doi/10.1145/3331147'
 citation: 'Xiao Ming Li, Guangquan Xu, Xi Zheng, Kaitai Liang, Emmanouil Panaousis, Tao Li, Wei Wang, Chao Shen (2019). 
-&quot;Using sparse representation to detect anomalies in complex WSNs. &quot;
-<i>ACM Transactions on Intelligent Systems and Technology</i>, Vol. 10, No. 6, pp. 1 - 18.<br>
-<span style="color:#2979ab;">(JCR 2019: 3.82, CiteScore 2019: 7.5)</span>'
+		&quot;Using sparse representation to detect anomalies in complex WSNs. &quot;
+		<i>ACM Transactions on Intelligent Systems and Technology</i>, Vol. 10, No. 6, pp. 1-18.<br>
+		<span style="color:#2979ab;">(JCR 2019: 3.82, CiteScore 2019: 7.5)</span>'
 ---
 
 

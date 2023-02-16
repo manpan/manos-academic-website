@@ -8,6 +8,8 @@ venue: 'IEEE Access'
 paperurl: '/files/pdf/papers/heartfield2020self.pdf'
 link: 'https://ieeexplore.ieee.org/document/9277640'
 github: 'https://github.com/isec-greenwich/magpie'
-citation: 'Ryan Heartfield, George Loukas, Anatolij Bezemskij, Emmanouil Panaousis (2020). &quot;Self-configurable cyber-physical intrusion detection for smart homes using reinforcement learning.&quot; <i>IEEE Transactions on Information Forensics and Security</i>, Vol. 16, pp. 1720 - 1735. 
+citation: 'Ryan Heartfield, George Loukas, Anatolij Bezemskij, Emmanouil Panaousis (2020). 
+	&quot;Self-configurable cyber-physical intrusion detection for smart homes using reinforcement learning.&quot; 
+	<i>IEEE Transactions on Information Forensics and Security (IEEE TIFS)</i>, 16, 1720-1735. 
 	<span style="color:#2979ab;">(JCR 2021: 7.231, CiteScore 2020: 15.1)</span>'
 ---

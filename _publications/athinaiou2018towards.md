@@ -6,5 +6,7 @@ permalink: /publication/athinaiou2018towards
 date: 2018-07-27
 venue: '2018 International Conference on Trust and Privacy in Digital Business'
 link: 'https://link.springer.com/chapter/10.1007%2F978-3-319-98385-1_14'
-citation: 'Myrsini Athinaiou, Haralambos Mouratidis, Theo Fotis, Michalis Pavlidis, Emmanouil Panaousis (2018). &quot;Towards the definition of a security incident response modelling language.&quot; <i>TrustBus 2018</i>.'
+citation: 'Myrsini Athinaiou, Haralambos Mouratidis, Theo Fotis, Michalis Pavlidis, Emmanouil Panaousis (2018). 
+	&quot;Towards the definition of a security incident response modelling language.&quot; 
+	<i>International Conference on Trust and Privacy in Digital Business (TrustBus)</i>.'
 ---

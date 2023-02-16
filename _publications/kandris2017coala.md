@@ -8,8 +8,7 @@ venue: 'Simulation Modelling Practice and Theory'
 paperurl: '/files/pdf/papers/kandris2017coala.pdf'
 link: 'https://www.mdpi.com/1424-8220/17/11/2502'
 citation: 'Dionisis Kandris, George Tselikis, Eleftherios Anastasiadis, Emmanouil Panaousis, Tasos Dagiuklas (2017). 
-&quot;COALA: A protocol for the avoidance and alleviation of congestion in wireless sensor networks.&quot;
-<i>Sensors</i>, 17(11), 2502. 
-<span style="color:#2979ab;">(JCR 2018: 2.677, CiteScore 2018: 4.3)</span>'
+	&quot;COALA: A protocol for the avoidance and alleviation of congestion in wireless sensor networks.&quot;
+	<i>Sensors</i>, 17(11), 2502. 
+	<span style="color:#2979ab;">(JCR 2018: 2.677, CiteScore 2018: 4.3)</span>'
 ---
-

@@ -8,5 +8,7 @@ venue: 'International Journal of Distributed Sensor Networks'
 paperurl: '/files/pdf/papers/chen2020post.pdf'
 link: 'https://doi.org/10.1177/1550147720914775'
 slidesurl: '/files/pdf/slides/chen2020post-slides.pdf'
-citation: 'Jiahui Chen, Jie Ling, Jianting Ning, Emmanouil Panaousis, George Loukas, Kaitai Liang, Jiageng Chen (2019). &quot;Post quantum proxy signature scheme based on the multivariate public key cryptographic signature.&quot; <i>International Journal of Distributed Sensor Networks, Vol. 16, No. 4.</i>'
+citation: 'Jiahui Chen, Jie Ling, Jianting Ning, Emmanouil Panaousis, George Loukas, Kaitai Liang, Jiageng Chen (2019). 
+	&quot;Post quantum proxy signature scheme based on the multivariate public key cryptographic signature.&quot; 
+	<i>International Journal of Distributed Sensor Networks</i>, 16(4).'
 ---

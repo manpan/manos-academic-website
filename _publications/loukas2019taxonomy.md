@@ -8,7 +8,7 @@ venue: 'Ad Hoc Networks'
 paperurl: '/files/pdf/papers/loukas2019taxonomy.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S1570870518307091'
 citation: 'George Loukas, Eirini Karapistoli, Emmanouil Panaousis, Panagiotis Sarigiannidis, Anatolij Bezemskij, Tuan Vuong (2019). 
-&quot;A taxonomy and survey of cyber-physical intrusion detection approaches for vehicles. &quot;
-<i>Ad Hoc Networks</i>, volume 84, pages 124-147. <br>
-<span style="color:#2979ab;">(JCR 2019: 3.643, CiteScore 2019: 7.8)</span>'
+		&quot;A taxonomy and survey of cyber-physical intrusion detection approaches for vehicles. &quot;
+		<i>Ad Hoc Networks</i>, Vol. 84, pp. 124-147.<br>
+		<span style="color:#2979ab;">(JCR 2019: 3.643, CiteScore 2019: 7.8)</span>'
 ---

@@ -5,8 +5,8 @@ permalink: /experience/
 author_profile: true
 ---
 
-- Professor of Cyber Security (Sep 2022 – Present) <br> 
-  University of Greenwich (Royal Naval College, London, UK)
+- Professor of Cyber Security (Sep 2022 – Present) <br>
+  University of Greenwich (Royal Naval College, London, UK) 
   - Head of Cyber Risk, Internet of Things and Security Centre (ISEC)
   - P.I. Horizon Europe TANGO, Co-I EPSRC CHAI, Co-I Horizon Europe SUN
   - Researching cyber security and privacy

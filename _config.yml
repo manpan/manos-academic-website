@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Manos Panaousis"
+title                    : "Prof. Manos Panaousis"
 title_separator          : "-"
 name                     : &name "Manos Panaousis"
 description              : &description "Professor of Cyber Security"

@@ -8,7 +8,7 @@ venue: 'Symmetry'
 paperurl: '/files/pdf/papers/lu2019quantum.pdf'
 link: 'https://www.mdpi.com/2073-8994/11/2/272'
 citation: 'Xiuhua Lu, Qiaoyan Wen, Wei Yin, Kaitai Liang, Zhengping Jin, Emmanouil Panaousis, Jiageng Chen (2019). 
-&quot;Quantum-resistant identity-based signature with message recovery and proxy delegation. &quot;
-<i>Symmetry</i>, 11(2), 272.
-<span style="color:#2979ab;">(JCR 2019: 2.645)</span>'
+		&quot;Quantum-resistant identity-based signature with message recovery and proxy delegation. &quot;
+		<i>Symmetry</i>, 11(2), 272.
+		<span style="color:#2979ab;">(JCR 2019: 2.645)</span>'
 ---

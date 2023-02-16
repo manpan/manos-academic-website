@@ -6,10 +6,9 @@ permalink: /publication/jaddoa2019dynamic
 date: 2020-05-20
 venue: 'Simulation Modelling Practice and Theory'
 paperurl: '/files/pdf/papers/jaddoa2019dynamic.pdf'
-link: 'https://ieeexplore.ieee.org/document/9277640'
+link: 'https://doi.org/10.1016/j.simpat.2019.102019'
 citation: 'Ali Jaddoa, Georgia Sakellari, Emmanouil Panaousis, George Loukas, Panagiotis G. Sarigiannidis (2020). 
-&quot;Self-configurable cyber-physical intrusion detection for smart homes using reinforcement learning.&quot;
-<i>Simulation Modelling Practice and Theory</i>, Vol. 101, pp. 102019."
-  <span style="color:#2979ab;">(JCR 2019: 2.219, CiteScore 2019 : 5.3)</span>'
+    &quot;Self-configurable cyber-physical intrusion detection for smart homes using reinforcement learning.&quot;
+    <i>Simulation Modelling Practice and Theory</i>, 101, 102019."
+    <span style="color:#2979ab;">(JCR 2019: 2.219, CiteScore 2019 : 5.3)</span>'
 ---
-

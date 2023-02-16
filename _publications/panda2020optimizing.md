@@ -1,0 +1,13 @@
+---
+title: "Optimizing investments in cyber hygiene for protecting healthcare users"
+abstract: "Cyber hygiene measures are often recommended for strengthening an organization’s security posture, especially for protecting against social engineering attacks that target the human element. However, the related recommendations are typically the same for all organizations and their employees, regardless of the nature and the level of risk for different groups of users. Building upon an existing cybersecurity investment model, this paper presents a tool for optimal selection of cyber hygiene safeguards, which we refer as the Optimal Safeguards Tool (OST). The model combines game theory and combinatorial optimization (0-1 Knapsack) taking into account the probability of each user group to being attacked, the value of assets accessible by each group, and the efficacy of each control for a particular group. The model considers indirect cost as the time employees could require for learning and trainning against an implemented control. Utilizing a game-theoretic framework to support the Knapsack optimization problem permits us to optimally select safeguards’ application levels minimizing the aggregated expected damage within a security investment budget. We evaluate OST in a healthcare domain use case. In particular, on the Critical Internet Security (CIS) Control group 17 for implementing security awareness and training programs for employees belonging to the ICT, clinical and administration personnel of a hospital. We compare the strategies implemented by OST against alternative common-sense defending approaches for three different types of attackers: Nash, Weighted and Opportunistic. Our results show that Nash defending strategies are consistently better than the competing strategies for all attacker types with a minor exception where the Nash defending strategy, for a specific game, performs at least as good as other common-sense approaches. Finally, we illustrate the alternative investment strategies on different Nash equilibria (called plans) and discuss the optimal choice using the framework of 0-1 Knapsack optimization."
+collection: publications
+permalink: /publication/panda2020optimizing
+date: 2020-02-15
+venue: 'From Lambda Calculus to Cybersecurity Through Program Analysis'
+paperurl: '/files/pdf/papers/panda2020optimizing.pdf'
+link: 'https://doi.org/10.1007/978-3-030-41103-9_11'
+citation: 'Sakshyam Panda, Emmanouil Panaousis, George Loukas, Christos Laoudias (2020). 
+	&quot;Optimizing investments in cyber hygiene for protecting healthcare users.&quot;
+	<i>From Lambda Calculus to Cybersecurity Through Program Analysis</i>, 268–29.'
+---

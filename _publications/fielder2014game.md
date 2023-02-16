@@ -8,5 +8,7 @@ venue: '2014 IFIP International Conference on ICT Systems Security and Privacy P
 paperurl: '/files/pdf/fielder2014game.pdf'
 slidesurl: '/files/pdf/slides/fielder2014game-slides.pdf'
 link: 'https://doi.org/10.1007/978-3-642-55415-5_2'
-citation: 'Andrew Fielder, Emmanouil Panaousis, Pasquale Malacaria, Chris Hankin, and Fabrizio Smeraldi (2014). &quot;Game theory meets information security management.&quot; <i>2014 IFIP International Conference on ICT Systems Security and Privacy Protection (IFIP SEC 2014)</i>.'
+citation: 'Andrew Fielder, Emmanouil Panaousis, Pasquale Malacaria, Chris Hankin, and Fabrizio Smeraldi (2014). 
+	&quot;Game theory meets information security management.&quot; 
+	<i>IFIP International Conference on ICT Systems Security and Privacy Protection (IFIP SEC)</i>.'
 ---

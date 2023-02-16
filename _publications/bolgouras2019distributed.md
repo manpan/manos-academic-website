@@ -8,6 +8,8 @@ venue: 'IEEE Transactions on Industrial Informatics'
 paperurl: '/files/pdf/papers/bolgouras2019distributed.pdf'
 link: 'https://ieeexplore.ieee.org/document/8839344'
 code: 'https://github.com/VaiosBolgouras/MENSA'
-citation: 'Vaios Bolgouras, Christoforos Ntantogian, Emmanouil Panaousis, Christos Xenakis (2019). &quot;Distributed key management in microgrids.&quot; <i>IEEE Transactions on Industrial Informatics</i>, 16(3), 2125-2133. <br>
+citation: 'Vaios Bolgouras, Christoforos Ntantogian, Emmanouil Panaousis, Christos Xenakis (2019). 
+	&quot;Distributed key management in microgrids.&quot; 
+	<i>IEEE Transactions on Industrial Informatics</i>, 16(3), 2125-2133. <br>
 	<span style="color:#2979ab;">(JCR 2019: 10.854, CiteScore 2019: 13.9)</span>'
 ---

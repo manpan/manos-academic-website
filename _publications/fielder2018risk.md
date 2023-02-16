@@ -7,5 +7,7 @@ date: 2018-06-09
 venue: 'Games'
 paperurl: '/files/pdf/papers/fielder2018risk.pdf'
 link: 'https://www.mdpi.com/2073-4336/9/2/34'
-citation: 'Andrew Fielder, Sandra König, Emmanouil Panaousis, Stefan Schauer, Stefan Rass (2018). &quot;Risk assessment uncertainties in cybersecurity investments.&quot;<i>Games</i>, 9(2), 34.'
+citation: 'Andrew Fielder, Sandra König, Emmanouil Panaousis, Stefan Schauer, Stefan Rass (2018). 
+		&quot;Risk assessment uncertainties in cybersecurity investments.&quot;
+		<i>Games</i>, 9(2), 34.'
 ---

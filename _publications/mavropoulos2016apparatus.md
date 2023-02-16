@@ -10,10 +10,10 @@ format, in order to elicit security requirements. To demonstrate its usage the s
 collection: publications
 permalink: /publication/mavropoulos2016apparatus
 date: 2017-06-07
-venue: '2016 International Conference on Advanced Information Systems Engineering'
+venue: 'International Conference on Advanced Information Systems Engineering'
 paperurl: '/files/pdf/papers/mavropoulos2016apparatus.pdf'
 github: 'https://github.com/Or3stis/apparatus'
 citation: 'Orestis Mavropoulos, Haralambos MouratidisAndrew Fish, Emmanouil Panaousis, Christos Kalloniatis (2017). 
-&quot;Apparatus: Reasoning about security requirements in the internet of things. &quot;
-<i>International Conference on Advanced Information Systems Engineering</i>.'
+		&quot;Apparatus: Reasoning about security requirements in the internet of things. &quot;
+		<i>International Conference on Advanced Information Systems Engineering</i>.'
 ---

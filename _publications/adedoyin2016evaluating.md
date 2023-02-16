@@ -13,7 +13,7 @@ date: 2016-10-03
 venue: 'International Conference on Case-Based Reasoning (ICCBR) Workshops'
 paperurl: '/files/pdf/papers/adedoyin2016evaluating.pdf'
 citation: 'Adeyinka Adedoyin, Stelios Kapetanakis, Miltos Petridis, Emmanouil Panaousis (2016). 
-&quot;Evaluating case-based reasoning knowledge discovery in fraud detection.&quot; 
-<i>International Conference on Case-Based Reasoning (ICCBR) Workshops</i>. 
-<span style="color:#2979ab;">(CORE2017 Ranking: B)</span>'
+	&quot;Evaluating case-based reasoning knowledge discovery in fraud detection.&quot; 
+	<i>International Conference on Case-Based Reasoning (ICCBR) Workshops</i>. 
+	<span style="color:#2979ab;">(CORE2017 Ranking: B)</span>'
 ---

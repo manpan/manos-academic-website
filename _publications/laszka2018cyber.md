@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/laszka2018cyber.pdf'
 slidesurl: '/files/pdf/slides/laszka2018cyber-slides.pdf'
 link: 'https://doi.org/10.1007/978-3-030-01554-1_29'
 citation: 'Aron Laszka, Emmanouil Panaousis, Jens Grossklags (2018). 
-&quot;Cyber-insurance as a signaling game: self-reporting and external security audits.&quot;
-<i>9th Conference on Decision and Game Theory for Security (GameSec 2018)</i>.'
+		&quot;Cyber-insurance as a signaling game: self-reporting and external security audits.&quot;
+		<i>9th Conference on Decision and Game Theory for Security (GameSec 2018)</i>.'
 ---

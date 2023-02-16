@@ -6,5 +6,7 @@ main:
     url: /projects/
   - title: "Centre" #  Faculty, Postdoctoral Researchers, PhD Researchers, Research Assistants
     url: /centre/
+  - title: "Experience" # Teaching, Service, Experience
+    url: /experience/
   - title: "Miscellaneous" # Teaching, Service, Experience
     url: /miscellaneous/
