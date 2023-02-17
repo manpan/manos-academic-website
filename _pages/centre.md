@@ -13,7 +13,7 @@ Our current areas of research include Communications and Self-aware systems, IoT
 This section is currently being updated
 </div>
 
-## Faculty
+## <span style="color:#2979ab;">Faculty</span> 
 
 - Professor George Loukas, Professor of Cyber Security and Head of ISEC <i class="ai ai-google-scholar"></i>[gs](https://scholar.google.com/citations?user=AfbIsPgAAAAJ&hl=en/i), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/george-loukas).
 - Professor Manos Panaousis, Professor of Cyber Security and Head of Cyber Risk <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis). 
@@ -30,7 +30,7 @@ This section is currently being updated
 - Dr Tuan Vuong, Senior Lecturer in Computer Science, [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong). 
 
 
-## Postdoctoral Researchers 
+## <span style="color:#2979ab;">Postdoctoral Researchers</span>  
 
 ### Current
 - Dr Sakshyam Panda, Researcher in Cyber Security and Privacy, Horizon Europe TANGO. 
@@ -43,18 +43,30 @@ This section is currently being updated
 - Dr Xing Liang –  Explainable security of ecommerce ecosystem, H2020 ENSURESEC.
 
 
-## PhD Researchers 
+## <span style="color:#2979ab;">PhD Researchers</span> 
+### Current
 - Emily Parsons, IoT Cyber Risk Management. 
 - Claire Stretch, Cyber Risk Optimisation for Small Businesses.
 - L. Akhter, Model-based Software Security.
 
 ### Alumni
-- Dr Antonia Nisioti, Supporting the optimal investigation of multi-stage cyber attacks. Moved to SOC Team Lead, Secrutiny, UK.
+- Antonia Nisioti (2022), Supporting the optimal investigation of multi-stage cyber attacks. 
+- Terry Brett (2021) Understanding contagion spreading processes of cyber security threats through social networks.
+- Anatolij Bezemskij (2017) Detecting cyber-physical threats against autonomous robotic systems in routine missions. 
+- Tuan Phan Vuong (2017) Cyber-physical intrusion detection for robotic vehicles. 
+- David Chadwick (2016) Defining a formal model of edutainment that enhances the learning of cyber security subjects by higher education students.
+- Ryan John Heartfield (2017) Utilising the concept of human-as-a-security-sensor for detecting semantic social engineering attacks. 
+- Darren Hurley-Smith (2015) Virtual closed networks: optimised security for autonomous MANETs. 
+- Robert David Sparrow (2018) A novel approach to symmetric cryptographic secured communication links for real-time teleoperation and telemetry. 
+- Khurram Shahzad (2015) An investigation of mechanisms to mitigate zero-day computer worms within computer networks. 
+- Muhammad Aminu Ahmad (2017) An investigation of network countermeasure against fast self-propagating malware. 
+- Xiaoyi Zhou (2012) Information security based on temporal order and ergodic matrix.
+- Andrew A. Adekunle (2012) Design and analysis of light-weight symmetric cryptographic frameworks and constructs for secure packet mode wireless communication. 
 
 
-## Research Assistants
+## <span style="color:#2979ab;">Research Assistants</span> 
 
-### Alumni
+### Previous
 - Cameron Noakes, Researcher in Applications of MITRE ATT&CK framework, H2020 CUREX.
 - Emma Scott, Researcher in Security for AI-enabled smart homes, EPSRC CHAI. 
 - Andreea Firoozbakht, Researcher in Security economics of connected places.

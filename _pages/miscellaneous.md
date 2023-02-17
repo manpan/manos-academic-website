@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-## Teaching
+## <span style="color:#2979ab;">Teaching</span> 
 
 I teach Information Security to second-year undergraduate students at the School of Computing and Mathematical Sciences. Specifically, I cover the fundamental concepts of cyber risk assessment, threats, cyber risk management, and security economics in my portion of the module.
 
@@ -23,7 +23,7 @@ My teaching experience includes:
 - Mathematics, University of Brighton, Fall Semester, BSc/Year 1 (2015-2018).
 - Network Design and Technologies, University of Brighton, Fall Semester, BSc/Year 1 (2014-2015).
 
-## Service
+## <span style="color:#2979ab;">Service</span> 
 
 ### Editorials
   - *Sensors*, Lead Guest editor (2022) for Special Issue "Advances in Cybersecurity in Internet of Things".
