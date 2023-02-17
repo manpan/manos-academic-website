@@ -5,7 +5,9 @@ permalink: /centre/
 author_profile: true
 ---
 
-The following are current and previous members of the Internet of Things and Security Centre (ISEC) at the University of Greenwich. 
+With an annual research expenditure over £1M, the centre has 29 faculty, postdoc and PhD researchers. We work with industry, public sector and academic partners in combining scientific excellence with real-world implementation in securing smart digital environments, from smart buildings to emergency services and health.
+
+Our current areas of research include Communications and Self-aware systems, IoT Security, Online Harms, Cyber-Physical Security, AI for Security, Threat Modelling, Formal Methods of Security, Cyber Risk Management, Cyber Forensics, Security Economics, Emergency Management, and Privacy.
 
 <div style="background-color: #ddf4ff; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0969da;">
 This section is currently being updated
@@ -13,19 +15,19 @@ This section is currently being updated
 
 ## Faculty
 
-- Professor George Loukas, Professor of Cyber Security and Head of ISEC <i class="ai ai-google-scholar"></i>[gs](https://scholar.google.com/citations?user=AfbIsPgAAAAJ&hl=en/i)
-- Professor Manos Panaousis, Professor of Cyber Security and Head of Cyber Risk <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao). 
-- Professor Jixin Ma, Professor of Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=nMKdeZIAAAAJ&hl=en&oi=ao). 
-- Dr Georgia Sakellari, Deputy Head of ISEC and Associate Professor of Networked Systems <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=LEShwBYAAAAJ&hl=en&oi=ao). 
-- Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao).
-- Dr Sadiq Sani, Senior Lecturer in Cybersecurity.
-- Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate). 
-- Dr Diane Gan, Principal Lecturer in Computer Security and Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao). 
+- Professor George Loukas, Professor of Cyber Security and Head of ISEC <i class="ai ai-google-scholar"></i>[gs](https://scholar.google.com/citations?user=AfbIsPgAAAAJ&hl=en/i), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/george-loukas).
+- Professor Manos Panaousis, Professor of Cyber Security and Head of Cyber Risk <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis). 
+- Professor Jixin Ma, Professor of Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=nMKdeZIAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/jixin-ma).
+- Dr Georgia Sakellari, Deputy Head of ISEC and Associate Professor of Networked Systems <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=LEShwBYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgia-sakellari). 
+- Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan).
+- Dr Sadiq Sani, Senior Lecturer in Cybersecurity <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=4mxGXzoAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani).
+- Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas). 
+- Dr Diane Gan, Principal Lecturer in Computer Security and Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/diane-gan). 
 - Dr Ralph Barthelm, Senior Lecturer in Disruptive Technologies <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao). 
 - Dr Anatolij Bezemskij, Senior Lecturer in Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=POdWFs8AAAAJ&hl=en&oi=ao).
 - Dr David Cresty, Senior Lecturer in Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=OuEvcD4AAAAJ&hl=en&oi=ao). 
-- Dr Ivana Tomic, Senior Lecturer in Cyber Security <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao).
-- Dr Tuan Vuong, Senior Lecturer in Computer Science. 
+- Dr Ivana Tomic, Senior Lecturer in Cyber Security <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-ivana-tomic).
+- Dr Tuan Vuong, Senior Lecturer in Computer Science, [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong). 
 
 
 ## Postdoctoral Researchers 
