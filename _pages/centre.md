@@ -5,7 +5,7 @@ permalink: /centre/
 author_profile: true
 ---
 
-With an annual research expenditure over £1M, the centre has 29 faculty, postdoc and PhD researchers. We work with industry, public sector and academic partners in combining scientific excellence with real-world implementation in securing smart digital environments, from smart buildings to emergency services and health.
+With an annual research expenditure over £1M, the [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec) has 29 faculty, postdoc and PhD researchers. We work with industry, public sector and academic partners in combining scientific excellence with real-world implementation in securing smart digital environments, from smart buildings to emergency services and health.
 
 Our current areas of research include Communications and Self-aware systems, IoT Security, Online Harms, Cyber-Physical Security, AI for Security, Threat Modelling, Formal Methods of Security, Cyber Risk Management, Cyber Forensics, Security Economics, Emergency Management, and Privacy.
 
