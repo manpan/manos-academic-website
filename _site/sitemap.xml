@@ -125,6 +125,10 @@
 <lastmod>2017-06-07T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/pavlidis2017selecting</loc>
+<lastmod>2017-07-27T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publication/kandris2017coala</loc>
 <lastmod>2017-10-31T00:00:00-05:00</lastmod>
 </url>
@@ -225,6 +229,10 @@
 <lastmod>2021-02-09T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/parsons2020how</loc>
+<lastmod>2021-03-04T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publication/nifakos2021influence</loc>
 <lastmod>2021-07-28T00:00:00-05:00</lastmod>
 </url>
@@ -239,6 +247,10 @@
 <url>
 <loc>http://localhost:4000/publication/pan2021lightweight</loc>
 <lastmod>2021-09-05T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/publication/scott2022optimising</loc>
+<lastmod>2022-06-22T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/publication/ahmed2022mitre</loc>
