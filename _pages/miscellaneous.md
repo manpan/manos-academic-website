@@ -9,9 +9,11 @@ author_profile: true
 
 I teach Information Security to second-year undergraduate students at the School of Computing and Mathematical Sciences. Specifically, I cover the fundamental concepts of cyber risk assessment, threats, cyber risk management, and security economics in my portion of the module.
 
-To ensure that both my students and I stay current with the latest trends in the cyber domain, I place a strong emphasis on research-informed teaching. I regularly update my teaching materials with the latest insights from industry and the latest literature in the field.
+To ensure that my students and I remain up-to-date with the latest trends in the rapidly evolving field of cybersecurity, I place a strong emphasis on research-informed teaching. To do this, I regularly consult industry experts and academic literature to gather insights on emerging cyber threats, new security technologies, and best practices in cyber risk management.
 
-Through this approach, I aim to prepare my students for their future careers in the industry by equipping them with the most up-to-date knowledge and skills. Additionally, my teaching approach also provides my students with a taste of the exciting world of cyber security research, which may inspire them to pursue a PhD.
+I also use a variety of methods to integrate this information into my lectures and course materials. For example, I incorporate real-world case studies and examples into my lessons to help students understand the practical implications of cybersecurity concepts. I also encourage class discussions and debates on current events and emerging issues in cybersecurity to help students develop critical thinking skills and stay engaged with the subject matter.
+
+By prioritizing research-informed teaching, I have seen my students develop a deeper understanding of cybersecurity and its role in the modern business landscape. They are better equipped to analyze and evaluate cyber risks, identify vulnerabilities, and implement effective security strategies. Ultimately, this approach prepares them to be successful cybersecurity professionals who are well-equipped to address the ever-changing landscape of cyber threats.
 
 My teaching experience includes: 
 - Information Security, University of Greenwich, Fall Semester, BSc/Year 2 (2019-Present).
