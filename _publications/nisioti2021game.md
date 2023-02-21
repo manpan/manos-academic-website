@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/nisioti2021game.pdf'
 link: 'https://doi.org/10.3390/s21165300'
 citation: 'Antonia Nisioti, George Loukas, Stefan Rass, Emmanouil Panaousis (2021). 
     &quot;Game-theoretic decision support for cyber forensic investigations.&quot;
-    <i>Sensors</i>, 21(16), 5300.<br>
+    <i>Sensors 2021</i>, 21(16), 5300.<br>
     <span style="color:#2979ab;">(JCR 2021: 3.847, CiteScore 2021: 6.4)</span>'
 ---

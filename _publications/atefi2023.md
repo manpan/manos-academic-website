@@ -13,4 +13,3 @@ citation: 'Soodeh Atefi, Sakshyam Panda, Manos Panaousis, Aron Laszka (2023).
 	<i>37th AAAI Conference on Artificial Intelligence (AAAI 23)</i>. 
  	<span style="color:#2979ab;">(CORE2021 Ranking: A*)</span>'
 ---
-

@@ -9,13 +9,6 @@ paperurl: '/files/pdf/papers/nifakos2021influence.pdf'
 link: 'https://www.mdpi.com/1424-8220/21/15/5119'
 citation: 'Sokratis Nifakos, Krishna Chandramouli, Charoula Konstantina Nikolaou, Panagiotis Papachristou, Sabine Koch, Emmanouil Panaousis, Stefano Bonacina (2010). 
 	&quot;"Influence of human factors on cyber security within healthcare organisations: A systematic review.&quot;
-	<i>Sensors</i>, 21(15), 5119.
+	<i>Sensors 2021</i>, 21(15), 5119.
 	<span style="color:#2979ab;">(JCR 2021: 3.847, CiteScore 2021: 6.4)</span>'
 ---
-
-
-
-
-
-
-

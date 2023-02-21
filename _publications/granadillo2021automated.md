@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/granadillo2021automated.pdf'
 link: 'https://doi.org/10.3390/s21165493'
 citation: 'Gustavo González-Granadillo, Sofia Anna Menesidou, Dimitrios Papamartzivanos, Ramon Romeu, Diana Navarro-Llobet, Caxton Okoh, Sokratis Nifakos, Christos Xenakis, Emmanouil Panaousis (2021). 
 	&quot;Automated cyber and privacy risk management toolkit.&quot;
-	<i>Sensors</i>, 21(16), 5493.
+	<i>Sensors 2021</i>, 21(16), 5493.
 	<span style="color:#2979ab;">(JCR 2021: 3.847, CiteScore 2021: 6.4)</span>'
 ---

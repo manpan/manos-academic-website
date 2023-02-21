@@ -9,8 +9,6 @@ paperurl: '/files/pdf/papers/pavlidis2017selecting.pdf'
 link: 'https://doi.org/10.1007/978-3-319-64483-7_7'
 citation: 'Michalis Pavlidis, Haralambos Mouratidis, Emmanouil Panaousis, Nikolaos Argyropoulos (2017). 
   &quot;Selecting security mechanisms in secure tropos.&quot;
-  <i>International Conference on Trust, Privacy & Security in Digital Business</i>, 10442, 99–114.'
+  <i>International Conference on Trust, Privacy & Security in Digital Business</i>, 10442, 99–114.
+   <span style="color:#2979ab;">(CORE2018 Ranking: B)</span>'
 ---
-
-
-
