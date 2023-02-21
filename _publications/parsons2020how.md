@@ -6,7 +6,7 @@ permalink: /publication/parsons2020how
 date: 2021-03-04
 venue: '24th Pan-Hellenic Conference on Informatics'
 paperurl: '/files/pdf/papers/parsons2020how.pdf'
-slidesurl: 'slides/parsons2020how-slides.pdf'
+slidesurl: '/files/pdf/slides/parsons2020how-slides.pdf'
 link: 'https://doi.org/10.1145/3437120.3437277'
 citation: 'Emily Kate Parsons, George Loukas, Emmanouil Panaousis (2020). 
   &quot;How secure is home: Assessing human susceptibility to IoT threats.&quot;

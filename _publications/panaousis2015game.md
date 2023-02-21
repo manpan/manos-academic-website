@@ -6,7 +6,7 @@ permalink: /publication/panaousis2014secure
 date: 2015-08-01
 venue: '2015 IEEE Trustcom/BigDataSE/ISPA'
 paperurl: '/files/pdf/papers/panaousis2015game.pdf'
-slidesurl: 'slides/panaousis2015game-slides.pdf'
+slidesurl: '/files/slides/panaousis2015game-slides.pdf'
 link: 'https://ieeexplore.ieee.org/abstract/document/7345384'
 citation: 'Emmanouil Panaousis, Aron Laszka, Johannes Pohl, Andreas Noack, Tansu Alpcan (2014). 
 	&quot;Game-theoretic model of incentivizing privacy-aware users to consent to location tracking.&quot;

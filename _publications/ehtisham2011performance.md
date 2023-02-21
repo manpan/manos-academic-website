@@ -20,7 +20,7 @@ collection: publications
 permalink: /publication/ehtisham2011performance
 date: 2011-11-01
 venue: 'International Journal of Computer Networks and Communications'
-paperurl: '/files/pdf/ehtisham2011performance.pdf'
+paperurl: '/files/pdf/papers/ehtisham2011performance.pdf'
 link: 'https://doi.org/10.1007/978-3-642-35155-6_3'
 citation: 'Farrukh Ehtisham, Emmanouil Panaousis, Christos Politis (2011). 
 	&quot;Performance evaluation of secure video transmission over WIMAX.&quot; 

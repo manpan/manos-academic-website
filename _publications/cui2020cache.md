@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/cui2020cache.pdf'
 link: 'https://doi.org/10.3390/s20164651'
 citation: 'Yuanbo Cui, Fei Gao, Wenmin Li, Yijie Shi, Hua Zhang, Qiaoyan Wen, Emmanouil Panaousis (2020). 
 	&quot;An options approach to cybersecurity investment.&quot; 
-	<i>Sensors 2020</i>, 20(16), 4651.<br> 
+	<i>Sensors</i>, 20(16), 4651.<br> 
 	<span style="color:#2979ab;">(JCR 2019: 3.275, CiteScore 2019: 5.8)</span>'
 ---

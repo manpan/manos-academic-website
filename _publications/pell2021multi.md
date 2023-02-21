@@ -6,7 +6,7 @@ permalink: /publication/pell2021multi
 date: 2021-10-15
 venue: 'Cyber Security Issues for Emerging Technologies'
 paperurl: '/files/pdf/papers/pell2021multi.pdf'
-link: 'https://www.routledge.com/Cybersecurity-Issues-in-Emerging-Technologies/Maglaras-Kantzavelou/p/book/9780367626174'
+link: 'https://arxiv.org/abs/2108.11207'
 citation: 'Robert Pell, Sotiris Moschoyiannis, Emmanouil Panaousis (2021). 
   &quot;Multi-stage threat modelling and security monitoring in 5GCN.&quot;
   <i>Cyber Security Issues for Emerging Technologies</i>.'

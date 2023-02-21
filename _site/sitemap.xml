@@ -81,6 +81,10 @@
 <lastmod>2011-11-01T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/rifa2012recipients</loc>
+<lastmod>2012-01-01T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publication/millar2012distributed</loc>
 <lastmod>2012-02-01T00:00:00-06:00</lastmod>
 </url>
@@ -101,6 +105,10 @@
 <lastmod>2013-04-16T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/ramrekha2013standardisation</loc>
+<lastmod>2013-05-01T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publication/fielder2014game</loc>
 <lastmod>2014-01-01T00:00:00-06:00</lastmod>
 </url>
@@ -111,6 +119,10 @@
 <url>
 <loc>http://localhost:4000/publication/panaousis2014secure</loc>
 <lastmod>2014-11-06T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/publication/rontidis2015game</loc>
+<lastmod>2015-06-01T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/publication/panaousis2014secure</loc>
@@ -137,7 +149,7 @@
 <lastmod>2017-05-03T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/publications/shepherd2017applicability/</loc>
+<loc>http://localhost:4000/publication/shepherd2017applicability</loc>
 <lastmod>2017-05-25T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -225,6 +237,10 @@
 <lastmod>2019-10-23T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/rass2019cut</loc>
+<lastmod>2019-10-23T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publication/panda2019post</loc>
 <lastmod>2019-11-01T00:00:00-05:00</lastmod>
 </url>
@@ -241,6 +257,10 @@
 <lastmod>2020-02-15T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/theodorakopoulos2020fly</loc>
+<lastmod>2020-03-13T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publication/chen2020post</loc>
 <lastmod>2020-04-30T00:00:00-05:00</lastmod>
 </url>
@@ -253,7 +273,7 @@
 <lastmod>2020-05-25T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/publication/xu2020tt</loc>
+<loc>http://localhost:4000/publication/xu2020ttsvd</loc>
 <lastmod>2020-06-30T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -311,10 +331,6 @@
 <url>
 <loc>http://localhost:4000/publication/pell2021towards</loc>
 <lastmod>2021-10-15T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/publications/theodorakopoulos2020fly/</loc>
-<lastmod>2022-02-01T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/publication/zhao2022practical</loc>
@@ -551,6 +567,10 @@
 <url>
 <loc>http://localhost:4000/files/pdf/papers/cui2020cache.pdf</loc>
 <lastmod>2022-12-08T03:56:25-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/pdf/papers/cui2020efficient.pdf</loc>
+<lastmod>2023-02-21T04:51:04-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/pdf/papers/diaz2022trusted.pdf</loc>
@@ -901,7 +921,7 @@
 <lastmod>2022-12-08T03:56:28-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/files/pdf/papers/panda2021honeycar.pdf</loc>
+<loc>http://localhost:4000/files/pdf/papers/panda2022honeycar.pdf</loc>
 <lastmod>2022-12-08T03:56:28-06:00</lastmod>
 </url>
 <url>

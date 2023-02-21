@@ -4,10 +4,10 @@ abstract: "Homomorphic encryption provides a way to perform deep learning over e
 collection: publications
 permalink: /publication/zhou2020deep
 date: 2020-08-01
-venue: '2020 6th IEEE International Conference on Edge Computing and Scalable Cloud'
+venue: '2020 7th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2020 6th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom)'
 paperurl: '/files/pdf/papers/zhou2020deep.pdf'
 link: 'https://ieeexplore.ieee.org/document/9170954'
 citation: 'Junwei Zhou, Junjiong Li, Emmanouil Panaousis, Kaitai Liang (2022). 
   &quot;Deep binarized convolutional neural network inferences over encrypted data.&quot;
-  <i>2020 6th IEEE International Conference on Edge Computing and Scalable Cloud (IEEE CSCloud 2020)</i>.'
+  <i>2020 7th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2020 6th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom)</i>.'
 ---
