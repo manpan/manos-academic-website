@@ -6,8 +6,6 @@ permalink: /publication/millar2012distributed
 date: 2012-02-01
 venue: 'Journal of Networks'
 paperurl: '/files/pdf/papers/millar2012distributed.pdf'
-github: 'https://github.com/Or3stis/apparatus'
-link: 'https://www.sciencedirect.com/user/identity/landing?code=RghTkjhJtJofb6Hp_ZdEW7tTWZMkDHomha0IyM_A&state=retryCounter%3D0%26csrfToken%3Dcd3bf8ba-6329-4ef8-8ac8-ac46f3b3f3c7%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS1570870518305936%26prompt%3Dnone%26cid%3Darp-ea1ad7ee-2eae-4fa4-879a-1623fc818c21'
 citation: 'Grant Millar, Emmanouil Panaousis, Christos Politis (2012). 
 		&quot;Distributed hash tables for peer-to-peer mobile ad-hoc networks with security extensions.&quot;
 		<i>Journal of Networks 7(2): 288-299 (2012)</i>.'

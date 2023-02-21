@@ -23,7 +23,7 @@ permalink: /publication/panaousis2014cybersecurity
 date: 2014-11-01
 venue: '2014 Conference on Decision and Game Theory for Security'
 paperurl: '/files/pdf/papers/panaousis2014cybersecurity.pdf'
-slidesurl: 'slides/panaousis2014cybersecurity-slides.pdf'
+slidesurl: '/files/pdf/slides/panaousis2014cybersecurity-slides.pdf'
 link: 'https://doi.org/10.1007/978-3-319-12601-2_15'
 citation: 'Emmanouil Panaousis, Andrew Fielder, Pasquale Malacaria, Chris Hankin, and Fabrizio Smeraldi (2014). 
 	&quot;Cybersecurity games and investments: A decision support approach.&quot;

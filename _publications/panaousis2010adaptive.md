@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/panaousis2010adaptive
 date: 2010-05-01
 venue: 'International Journal of Wireless and Mobile Computing'
-paperurl: '/files/pdf/papers/panaousis2009securing.pdf'
+paperurl: '/files/pdf/papers/panaousis2010adaptive.pdf'
 link: 'https://arxiv.org/abs/1005.1740'
 citation: 'Emmanouil Panaousis, Tipu A Ramrekha, Grant Millar, Christos Politis (2010). 
     &quot;Adaptive and secure routing protocol for emergency mobile ad hoc networks.&quot;

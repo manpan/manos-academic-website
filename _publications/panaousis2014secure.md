@@ -6,7 +6,7 @@ permalink: /publication/panaousis2014secure
 date: 2014-11-06
 venue: '2014 International Conference on Decision and Game Theory for Security'
 paperurl: '/files/pdf/papers/panaousis2014secure.pdf'
-slidesurl: 'slides/panaousis2014secure-slides.pdf'
+slidesurl: '/files/pdf/slides/panaousis2014secure-slides.pdf'
 link: 'https://doi.org/10.1007/978-3-319-12601-2_11'
 citation: 'Emmanouil Panaousis, Tansu Alpcan, Hossein Fereidooni, Mauro Conti (2014). 
 	&quot;Secure message delivery games for device-to-device communications.&quot;

@@ -6,7 +6,7 @@ permalink: /publication/panaousis2010secure
 date: 2010-06-18
 venue: '2010 Future Network & Mobile Summit'
 paperurl: '/files/pdf/papers/panaousis2010secure.pdf'
-link: 'https://arxiv.org/abs/1005.1740'
+link: 'https://ieeexplore.ieee.org/abstract/document/5722467/footnotes'
 citation: 'Emmanouil Panaousis, Tipu Arvind Ramrekha, Christos Politis (2010). 
     &quot;Secure routing for supporting ad-hoc extreme emergency infrastructures.&quot;
     <i>Future Network & Mobile Summit</i>.'

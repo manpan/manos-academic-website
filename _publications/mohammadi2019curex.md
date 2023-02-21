@@ -6,7 +6,6 @@ permalink: /publication/mohammadi2019curex
 date: 2019-10-01
 venue: 'IEEE/WIC/ACM International Conference on Web Intelligence'
 paperurl: '/files/pdf/papers/mohammadi2019curex.pdf'
-slidesurl: '/files/pdf/slides/laszka2018cyber-slides.pdf'
 link: 'https://dl.acm.org/doi/10.1145/3358695.3361753'
 citation: 'Farnaz Mohammadi, Angeliki Panou, Christoforos Ntantogian, Eirini Karapistoli, Emmanouil Panaousis, Christos Xenakis (2019). 
       &quot;"CUREX: seCUre and pRivate hEalth data eXchange.&quot;

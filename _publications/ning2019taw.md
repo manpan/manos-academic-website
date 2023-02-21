@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/ning2019taw.pdf'
 link: 'https://ieeexplore.ieee.org/document/8661487'
 citation: 'Zhenhu Ning, Guangquan Xu, Naixue Xiong, Yongli Yang, Changxiang Shen, Emmanouil Panaousis, Hao Wang, Kaitai Liang (2019). 
 		&quot;TAW: Cost-effective threshold authentication with weights for internet of things.&quot;
-		<i>IEEE Access</i>, 21(15), 5119.
+		<i>IEEE Access</i>, 21(15), 5119.<br>
 		<span style="color:#2979ab;">(JCR 2019: 3.745, CiteScore 2019: 3.9)</span>'
 ---

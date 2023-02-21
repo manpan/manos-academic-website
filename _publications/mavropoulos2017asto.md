@@ -6,7 +6,7 @@ permalink: /publication/mavropoulos2017asto
 date: 2017-06-07
 venue: '2017 IEEE 15th International Conference on Software Engineering Research, Management and Applications'
 paperurl: '/files/pdf/papers/mavropoulos2017asto.pdf'
-slidesurl: 'slides/mavropoulos2017asto-slides.pdf'
+slidesurl: '/files/pdf/slides/mavropoulos2017asto-slides.pdf'
 link: 'https://ieeexplore.ieee.org/document/7965757'
 github: "https://github.com/Or3stis/apparatus"
 citation: 'Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis (2017). 

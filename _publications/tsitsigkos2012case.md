@@ -7,7 +7,6 @@ permalink: /publication/tsitsigkos2012case
 date: 2012-05-01
 venue: '28th Wireless World Research Forum Meeting'
 paperurl: '/files/pdf/papers/tsitsigkos2012case.pdf'
-link: 'https://link.springer.com/chapter/10.1007/978-3-319-45931-8_5'
 citation: 'Alkiviadis Tsitsigkos, Fariborz Entezami, Arvind Ramrekha, Christos Politis, Emmanouil Panaousis (2012). 
   &quot;Security challenges of small cell as a service in virtualized mobile edge computing environments.&quot;
   <i>28th Wireless World Research Forum Meeting (WWRF)</i>.'

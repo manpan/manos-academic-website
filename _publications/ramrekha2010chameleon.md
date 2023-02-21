@@ -6,7 +6,7 @@ permalink: /publication/ramrekha2010chameleon
 date: 2010-08-25
 venue: 'IETF MANET Working Group'
 paperurl: '/files/pdf/papers/ramrekha2010chameleon.pdf'
-link: 'https://tools.ietf.org/html/draft-ramrekha-manet-cml-01"'
+link: 'https://tools.ietf.org/html/draft-ramrekha-manet-cml-01'
 citation: 'Tipu Arvind Ramrekha, Emmanouil Panaousis, Christos Politis (2010). 
   &quot;ChaMeLeon (CML): A hybrid and adaptive routing protocol for emergency situations.&quot;
   <i>IETF MANET Working Group</i>.'

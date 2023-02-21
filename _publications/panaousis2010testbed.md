@@ -19,10 +19,10 @@ this combination over their counterparts will lead to a considerable reduction i
 and delay on the network, creating an efficient transaction moving towards satisfying resource
 constraints and security requirements." 
 collection: publications
-permalink: /publication/panaousis2010secure
+permalink: /publication/panaousis2010testbed
 date: 2010-10-01
 venue: 'International Journal of Network Security & Its Applications'
-paperurl: '/files/pdf/papers/panaousis2010secure.pdf'
+paperurl: '/files/pdf/papers/panaousis2010testbed.pdf'
 link: 'https://arxiv.org/abs/1010.4986'
 citation: 'Emmanouil Panaousis, George Drew, Grant Millar, Tipu A Ramrekha, Christos Politis (2010). 
     &quot;A testbed implementation for securing olsr in mobile ad hoc networks.&quot;

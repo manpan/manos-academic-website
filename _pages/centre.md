@@ -9,10 +9,6 @@ The [Internet of Things and Security Research Centre](https://www.gre.ac.uk/rese
 
 Our center collaborates with industry, public sector, and academic partners to conduct cutting-edge research in various areas. Our current research areas include Communications and Self-aware systems, IoT Security, Online Harms, Cyber-Physical Security, AI for Security, Threat Modelling, Formal Methods of Security, Cyber Risk Management, Cyber Forensics, Security Economics, Emergency Management, and Privacy. Through these research areas, we aim to develop innovative solutions to address the ever-evolving challenges in securing the digital landscape.
 
-<div style="background-color: #ddf4ff; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0969da;">
-This section is currently being updated
-</div>
-
 ## <span style="color:#2979ab;">Faculty</span> 
 
 - Professor George Loukas, Professor of Cyber Security and Head of ISEC <i class="ai ai-google-scholar"></i>[gs](https://scholar.google.com/citations?user=AfbIsPgAAAAJ&hl=en/i), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/george-loukas).
@@ -31,6 +27,10 @@ This section is currently being updated
 
 
 ## <span style="color:#2979ab;">Postdoctoral Researchers</span>  
+
+<div style="background-color: #ddf4ff; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0969da;">
+This section is currently being updated
+</div>
 
 ### Current
 - Dr Sakshyam Panda, Researcher in Cyber Security and Privacy, Horizon Europe TANGO. 

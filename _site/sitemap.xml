@@ -45,7 +45,7 @@
 <lastmod>2009-09-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/publication/panaousis2008optimizing</loc>
+<loc>http://localhost:4000/publication/panaousis2009framework</loc>
 <lastmod>2009-10-01T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -73,7 +73,7 @@
 <lastmod>2010-08-25T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/publication/panaousis2010secure</loc>
+<loc>http://localhost:4000/publication/panaousis2010testbed</loc>
 <lastmod>2010-10-01T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -125,7 +125,7 @@
 <lastmod>2015-06-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/publication/panaousis2014secure</loc>
+<loc>http://localhost:4000/publication/panaousis2015game</loc>
 <lastmod>2015-08-01T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -609,6 +609,10 @@
 <lastmod>2022-12-08T03:56:26-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/files/pdf/papers/he2019new.pdf</loc>
+<lastmod>2023-02-21T11:46:54-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/files/pdf/papers/heartfield2020self.pdf</loc>
 <lastmod>2022-12-08T03:56:26-06:00</lastmod>
 </url>
@@ -674,7 +678,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/pdf/papers/ning2019taw.pdf</loc>
-<lastmod>2022-12-08T03:56:26-06:00</lastmod>
+<lastmod>2023-02-21T11:51:48-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/pdf/papers/nisioti2021data.pdf</loc>
@@ -901,6 +905,10 @@
 <lastmod>2022-12-08T03:56:28-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/files/pdf/papers/panaousis2015game.pdf</loc>
+<lastmod>2023-02-21T16:20:23-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/files/pdf/papers/panaousis2016game_2.pdf</loc>
 <lastmod>2022-12-08T03:56:28-06:00</lastmod>
 </url>
@@ -1093,7 +1101,7 @@
 <lastmod>2022-12-08T03:56:29-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/files/pdf/slides/rontidis2015game.pdf</loc>
+<loc>http://localhost:4000/files/pdf/slides/rontidis2015game-slides.pdf</loc>
 <lastmod>2022-12-08T03:56:29-06:00</lastmod>
 </url>
 <url>

@@ -6,7 +6,7 @@ permalink: /publication/rass2019cut
 date: 2019-10-23
 venue: '10th Conference on Decision and Game Theory for Security'
 paperurl: '/files/pdf/papers/rass2019cut.pdf'
-slidesurl: '/files/pdf/papers/rass2019cut-slides.pdf'
+slidesurl: '/files/pdf/slides/rass2019cut-slides.pdf'
 code: 'https://www.syssec.at/en/publikationen/description/cuttherope'
 link: 'https://link.springer.com/chapter/10.1007/978-3-030-32430-8_24'
 citation: 'Stefan Rass, Sandra Konig, Emmanouil Panaousis (2019). 

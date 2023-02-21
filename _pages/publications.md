@@ -8,10 +8,6 @@ author_profile: true
 List of my peer-reviewed publications, presented in chronological order along with
 [JCR](https://clarivate.com/webofsciencegroup/solutions/journal-citation-reports/), [CiteScore](https://www.scopus.com/authredirect.uri?txGid=ba9770c620c7d5b715fd72c9fd1d2f5d&code=mgQ4ISuu_SZoRtaw_jQp3aJiHFyZveTKNvMerqJs&state=autoLogin%7CtxId%3DDFD11B40110D74A323A75413629FB5D2.i-0ce250737914d0065%3A2) and [Core ranking](https://www.core.edu.au/conference-portal) scores.  
 
-<div style="background-color: #ddf4ff; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0969da;">
-This section is currently being updated
-</div>
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

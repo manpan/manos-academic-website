@@ -6,7 +6,7 @@ permalink: /publication/rontidis2015game
 date: 2015-06-01
 venue: '1st IEEE International Workshop on Security and Privacy for Internet of Things and Cyber-Physical Systems'
 paperurl: '/files/pdf/papers/rontidis2015game.pdf'
-slidesurl: '/files/pdf/papers/rontidis2015game-slides.pdf'
+slidesurl: '/files/pdf/slides/rontidis2015game-slides.pdf'
 github: 'https://github.com/manpan/strong'
 link: 'https://ieeexplore.ieee.org/document/7247577'
 citation: 'George Rontidis, Emmanouil Panaousis, Aron Laszka, Tasos Dagiuklas, Pasquale Malacaria, Tansu Alpcan (2019). 

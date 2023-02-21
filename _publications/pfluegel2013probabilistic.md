@@ -6,7 +6,7 @@ permalink: /publication/pfluegel2013probabilistic
 date: 2013-04-16
 paperurl: '/files/pdf/papers/pfluegel2013probabilistic.pdf'
 venue: '2013 European Wireless Conference'
-link: 'https://ieeexplore.ieee.org/abstract/document/6582801/metrics#metrics'
+link: 'https://ieeexplore.ieee.org/document/6582801'
 citation: 'Eckhard Pfluegel, Emmanouil Panaousis, Christos Politis (2013). 
   &quot;A probabilistic algorithm for secret matrix share size reduction.&quot;
   <i>2013 European Wireless Conference</i>.'

@@ -5,7 +5,6 @@ collection: publications
 permalink: /publication/pirmoradian2010efficient
 date: 2009-08-28
 venue: '2010 International Conference on Mobile Lightweight Wireless Systems'
-paperurl: '/files/pdf/papers/pirmoradian2010efficient.pdf'
 link: 'https://doi.org/10.1007/978-3-642-16644-0_43'
 citation: 'Mahdi Pirmoradian, Christos Politis, Emmanouil A. Panaousis (2009). 
   &quot;An efficient power control algorithm for supporting cognitive communications in shared spectrum areas.&quot;
