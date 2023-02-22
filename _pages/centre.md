@@ -16,13 +16,13 @@ Our center collaborates with industry, public sector, and academic partners to c
 - Professor Jixin Ma, Professor of Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=nMKdeZIAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/jixin-ma).
 - Dr Georgia Sakellari, Deputy Head of ISEC and Associate Professor of Networked Systems <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=LEShwBYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgia-sakellari). 
 - Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan).
-- Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas). 
-- Dr Sadiq Sani, Senior Lecturer in Cybersecurity <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=4mxGXzoAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani).
 - Dr Diane Gan, Principal Lecturer in Computer Security and Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/diane-gan). 
-- Dr Ralph Barthelm, Senior Lecturer in Disruptive Technologies <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao). 
+- Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas). 
 - Dr Anatolij Bezemskij, Senior Lecturer in Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=POdWFs8AAAAJ&hl=en&oi=ao).
+- Dr Sadiq Sani, Senior Lecturer in Cybersecurity <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=4mxGXzoAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani).
 - Dr David Cresty, Senior Lecturer in Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=OuEvcD4AAAAJ&hl=en&oi=ao). 
 - Dr Ivana Tomic, Senior Lecturer in Cyber Security <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-ivana-tomic).
+- Dr Ralph Barthelm, Senior Lecturer in Disruptive Technologies <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao). 
 - Dr Tuan Vuong, Senior Lecturer in Computer Science, [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong). 
 
 
@@ -35,21 +35,24 @@ This section is currently being updated
 ### Current
 - Dr Sakshyam Panda, Researcher in Cyber Security and Privacy, Horizon Europe TANGO. 
 - Dr Hsueh-Ju Chen, Researcher in Security for AI, EPSRC CHAI.
+- Dr William Oliff (Research Fellow for H2020 RESCUER project and previously Research Fellow in Computation Offloading for H2020 C4IIoT).
 
 ### Previous
 - Dr Caxton Okoh, Researcher in Cyber risk optimisation, H2020 CUREX.
 - Dr Ijaz Ahmed – Model-based resilient ecommerce ecosystem, H2020 ENSURESEC.
 - Dr Areeg Samir – AI-based security monitoring of ecommerce ecosystem, H2020 ENSURESEC.
 - Dr Xing Liang –  Explainable security of ecommerce ecosystem, H2020 ENSURESEC.
+- Dr Harry Whitby - Research Fellow for H2020 RESCUER (also in ENSURESEC and previously also in EUNOMIA projects).
 
 
-## <span style="color:#2979ab;">PhD Researchers</span> 
+## <span style="color:#2979ab;">PhD students (doctoral researchers)</span> 
 ### Current
 - Emily Parsons, IoT Cyber Risk Management. 
 - Claire Stretch, Cyber Risk Optimisation for Small Businesses.
 - L. Akhter, Model-based Software Security.
 
 ### Alumni
+- Ali Jaddoa(2018-2022), Multi-Criteria decision support for energy-efficient IoT edge computing offloading. 
 - Antonia Nisioti (2022), Supporting the optimal investigation of multi-stage cyber attacks. 
 - Terry Brett (2021) Understanding contagion spreading processes of cyber security threats through social networks.
 - Anatolij Bezemskij (2017) Detecting cyber-physical threats against autonomous robotic systems in routine missions. 
@@ -66,19 +69,27 @@ This section is currently being updated
 
 ## <span style="color:#2979ab;">Research Assistants</span> 
 
+### Current
+- Kevin Luu, Junior Research Developer (Inertial Based Localisation).
+- Rytis Venslovas, Junior Research Developer (Data Sharing Orchestration).
+
+
 ### Previous
-- Cameron Noakes, Researcher in Applications of MITRE ATT&CK framework, H2020 CUREX.
-- Emma Scott, Researcher in Security for AI-enabled smart homes, EPSRC CHAI. 
-- Andreea Firoozbakht, Researcher in Security economics of connected places.
-- Claire Stretch, Researcher in Trustworthiness for smart grid infrastructures, H2020 CUREX, NCSC MERIT.
-- Kokulan Natkunam, Researcher in Cyber risk optimisation, H2020 CUREX, NCSC MERIT.
-- Harry Whitby – Runtime Security Monitoring, H2020 ENSURESEC.
-- William Philips – Runtime Security Monitoring, H2020 ENSURESEC.
-- Harsh Patel – AI-based Security Monitoring, H2020 ENSURESEC.
-- Aditya Rajput – AI-based Security Monitoring, H2020 ENSURESEC.
-- Asma Saleem – Model-based resilient ecommerce ecosystem, H2020 ENSURESEC.
-- Sagar Samala – Design-time security of ecommerce applications, H2020 ENSURESEC.
-- Vikalp Jaiswal – Digital rights and their protection, ExMachina.
+- Cameron Noakes (2022) - Researcher in Applications of MITRE ATT&CK framework, H2020 CUREX.
+- Emma Scott (2021) - Researcher in Security for AI-enabled smart homes, EPSRC CHAI. 
+- Andreea Firoozbakht (2021-22) - Researcher in Security economics of connected places.
+- Claire Stretch (2020-21) - Researcher in Trustworthiness for smart grid infrastructures, H2020 CUREX, NCSC MERIT.
+- Kokulan Natkunam (2020-21) - Researcher in Cyber risk optimisation, H2020 CUREX, NCSC MERIT.
+- Harry Whitby (2021-22) – Researcher in H2020 ENSURESEC.
+- William Philips  – Researcher in Runtime Security Monitoring, H2020 ENSURESEC.
+- Harsh Patel – Researcher in AI-based Security Monitoring, H2020 ENSURESEC.
+- Aditya Rajput – Researcher in AI-based Security Monitoring, H2020 ENSURESEC.
+- Asma Saleem – Researcher in Model-based resilient ecommerce ecosystem, H2020 ENSURESEC.
+- Sagar Samala – Researcher in Design-time security of ecommerce applications, H2020 ENSURESEC.
+- Vikalp Jaiswal – Researcher in Digital rights and their protection, ExMachina.
+- Rohan Kathpal (2018) - Junior Software developer in Edge Computing.
+- Alexandru Aurescu (2018) - Junior Software developer in Edge Computing.
+ 
 
 
 
