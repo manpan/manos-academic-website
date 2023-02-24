@@ -9,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-* [Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }}), Citations: {{ site.data.scholar.citations }}, h-index: {{ site.data.scholar.h_index }}, i10-index: {{ site.data.scholar.i10_index }}
-
 I am a Professor of Cyber Security at the University of Greenwich, London, UK and head of Cyber Risk research at the [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec). My primary focus in research and teaching revolves around modeling and mitigating cybersecurity and privacy risks through the development of optimal solutions. 
 
 ## Research
