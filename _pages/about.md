@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
+* [Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }}), Citations: {{ site.data.scholar.citations }}, h-index: {{ site.data.scholar.h_index }}, i10-index: {{ site.data.scholar.i10_index }}
+
 I am a Professor of Cyber Security at the University of Greenwich, London, UK and head of Cyber Risk research at the [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec). My primary focus in research and teaching revolves around modeling and mitigating cybersecurity and privacy risks through the development of optimal solutions. 
 
 ## Research
@@ -19,7 +21,6 @@ I have received generous support for my research from various organizations, inc
 
 ## Experience
 Before my current professorship, I held various academic positions, including Associate Professor at the University of Greenwich (2019-2022), Lecturer and Senior Lecturer at the [Department of Computer Science](https://www.surrey.ac.uk/department-computer-science) of the University of Surrey (2017-2019), Lecturer and Senior Lecturer at the University of Brighton (2014-2017). I also worked as a visiting researcher at the [Institute of Security Science and Technology](https://www.imperial.ac.uk/security-institute/) at the Imperial College London, UK (2013-2016), and a postdoctoral researcher at the [Theory Group](https://theory.eecs.qmul.ac.uk) of Queen Mary University of London, UK (2013-2014).
-
 
 ## Education
 I received the [B.Sc. in Informatics and Telecommunications](https://www.di.uoa.gr/en) from the National and Kapodistrian University of Athens (Greece) in 2006, the [M.Sc. in Computer Science](http://grad.cs.aueb.gr/en/index.php) from the [Athens University of Economics and Business](https://www.aueb.gr/en) (Greece) in 2008 and the Ph.D. in Computer Science from [Kingston University London](https://www.kingston.ac.uk) (UK) in 2012.
