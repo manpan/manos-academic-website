@@ -10,3 +10,5 @@ main:
     url: /experience/
   - title: "Miscellaneous" # Teaching, Service, Experience
     url: /miscellaneous/
+  - title: "Contact" # Contact
+    url: /contact/
