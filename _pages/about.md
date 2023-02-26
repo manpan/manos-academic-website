@@ -11,6 +11,10 @@ redirect_from:
 
 I am a Professor of Cyber Security at the University of Greenwich, London, UK and head of Cyber Risk research at the [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec). My primary focus in research and teaching revolves around modeling and mitigating cybersecurity and privacy risks through the development of optimal solutions. 
 
+<div style="background-color: #ffe6cd; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #ec7d09;">
+<b>News</b>: (Feb 2023) We are hiring 3 (permanent) Lecturers in Cyber Security or Forensics. We will be advertising another Senior Lecturer (permanent) position soon! New staff will join our <a href="https://www.manospanaousis.com/centre/">Centre</a>.
+</div>
+
 ## Research
 I have published my research in highly reputable journals, including [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [IEEE TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [IEEE IoT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [COSE](https://www.sciencedirect.com/journal/computers-and-security), [DSS](https://www.sciencedirect.com/journal/decision-support-systems), [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [ACM TIST](https://dl.acm.org/journal/tist), [JISA](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), [CSR](https://www.sciencedirect.com/journal/computer-science-review) and [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639). Additionally, I have presented my work at several esteemed international conferences, such as [AAAI](https://aaai-23.aaai.org), [IEEE DSC](https://ieeexplore.ieee.org/xpl/conhome/9888143/proceeding), [IEEE SCC](https://ieeexplore.ieee.org/xpl/conhome/1001209/all-proceedings) and [GameSec](https://www.gamesec-conf.org). For a comprehensive list of my publications, please refer to my [portfolio](publications).
 

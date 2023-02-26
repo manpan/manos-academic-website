@@ -24,7 +24,7 @@ Our center collaborates with industry, public sector, and academic partners to c
 - Dr Ivana Tomic, Senior Lecturer in Cyber Security <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-ivana-tomic).
 - Dr Ralph Barthelm, Senior Lecturer in Disruptive Technologies <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao). 
 - Dr Tuan Vuong, Senior Lecturer in Computer Science, [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong).
-- Dr Alireza Esfahani, Lecturer in Electrical, Electronic and Computer Engineering, <i class="ai ai-google-scholar">[gs](https://scholar.google.pt/citations?hl=en&user=QknLal8AAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong). 
+- Dr Alireza Esfahani, Lecturer in Electrical, Electronic and Computer Engineering, <i class="ai ai-google-scholar">[gs](https://scholar.google.pt/citations?hl=en&user=QknLal8AAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/alireza-esfahani). 
 
 
 ## <span style="color:#2979ab;">Postdoctoral Researchers</span>  
