@@ -29,7 +29,7 @@ Our center collaborates with industry, public sector, and academic partners to c
 
 ## <span style="color:#2979ab;">Postdoctoral Researchers</span>  
 
-<div style="background-color: #ddf4ff; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0969da;">
+<div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
 This section is currently being updated
 </div>
 

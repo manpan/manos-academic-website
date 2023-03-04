@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Professor of Cyber Security at the University of Greenwich, London, UK and head of Cyber Risk research at the [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec). My primary focus in research and teaching revolves around modeling and mitigating cybersecurity and privacy risks through the development of optimal solutions. 
 
-<div style="background-color: #fff2e4; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #ec7d09;">
+<div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
 <b>News</b>: (Feb 2023) We are hiring 3 (permanent) Lecturers in Cyber Security or Forensics. We will be advertising another Senior Lecturer (permanent) position soon! New staff will join our <a href="https://www.manospanaousis.com/centre/">Centre</a>.
 </div>
 
