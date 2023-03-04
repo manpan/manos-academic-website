@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/panda2022honeycar.pdf'
 link: 'https://ieeexplore.ieee.org/document/9903648'
 citation: 'Sakshyam Panda, Stefan Rass, Sotiris Moschoyiannis, Kaitai Liang, George Loukas, Emmanouil Panaousis (2019). 
 	&quot;HoneyCar: A framework to configure honeypot vulnerabilities on the internet of vehicles.&quot;
-	<i>IEEE Access</i>, 10, 104671-104685.
+	<i>IEEE Access</i>, 10, 104671-104685.<br>
 	<span style="color:#2979ab;">(JCR 2021: 3.476, CiteScore 2021: 6.7)</span>'
 ---

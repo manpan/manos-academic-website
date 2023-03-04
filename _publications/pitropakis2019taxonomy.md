@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/pitropakis2019taxonomy.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S1574013718303289'
 citation: 'Nikolaos Pitropakis, Emmanouil Panaousis, Thanassis Giannetsos, Eleftherios Anastasiadis, George Loukas (2019). 
   &quot;A taxonomy and survey of attacks against machine learning.&quot;
-  <i>Computer Science Review</i>.
+  <i>Computer Science Review</i>.<br>
   <span style="color:#2979ab;">(JCR 2019: 7.707, SJR 2019: 14.7)</span>'
 ---

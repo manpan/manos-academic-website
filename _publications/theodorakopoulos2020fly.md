@@ -10,6 +10,6 @@ link: 'https://ieeexplore.ieee.org/document/9035624'
 github: 'https://github.com/gtheodor/on-the-fly-histogram-privacy'
 citation: 'George Theodorakopoulos, Emmanouil Panaousis, Kaitai Liang, George Loukas (2022). 
   &quot;On-the-fly privacy for location histograms.&quot;
-  <i>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)</i>, 19(1), 566-578.
+  <i>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)</i>, 19(1), 566-578.<br>
   <span style="color:#2979ab;">(JCR 2021: 6.791, CiteScore 2021: 13.5)</span>'
 ---

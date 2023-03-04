@@ -11,6 +11,6 @@ slidesurl: '/files/pdf/slides/banerjee2018unsupervised-slides.pdf'
 github: 'https://github.com/nikbanerjee/unsupervised-learning-trustworthy-iot'
 citation: 'Nikhil Banerjee, Thanassis Giannetsos, Emmanouil Panaousis, Clive Cheong Took (2018). 
 	&quot;Unsupervised learning for trustworthy IoT.
-	&quot; <i>IEEE International Conference on Fuzzy Systems</i>.  
+	&quot; <i>IEEE International Conference on Fuzzy Systems</i>. <br>
 	<span style="color:#2979ab;">(CORE2017 Ranking: A)</span>' 
 ---

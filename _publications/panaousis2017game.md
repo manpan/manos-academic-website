@@ -10,6 +10,6 @@ github: "https://github.com/manpan/game_theoretic_routing"
 link: 'https://www.sciencedirect.com/science/article/pii/S1570870516303109'
 citation: 'Emmanouil Panaousis, Eirini Karapistoli, Hadeer Elsemary, Tansu Alpcan, MHR Khuzani, Anastasios A. Economides (2017). 
 	&quot;Game theoretic path selection to support security in device-to-device communications.&quot;
-	<i>Ad Hoc Networks</i>, 56, 28-42.
+	<i>Ad Hoc Networks</i>, 56, 28-42.<br>
 	<span style="color:#2979ab;">(JCR 2017: 3.151, CiteScore 2017: 6.8)</span>'
 ---

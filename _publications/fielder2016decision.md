@@ -11,6 +11,6 @@ usecaseurl: '/files/pdf/papers/fielder2016decision_case_study.pdf'
 link: 'https://www.sciencedirect.com/science/article/pii/S0167923616300239'
 citation: 'Andrew Fielder, Emmanouil Panaousis, Pasquale Malacaria, Chris Hankin, Fabrizio Smeraldi (2016). 
 	&quot;Decision support approaches for cyber security investment.&quot;
-	<i>Decision Support Systems</i>, 86, 13-23. 
+	<i>Decision Support Systems</i>, 86, 13-23. <br>
 	<span style="color:#2979ab;">(JCR 2016: 3.222, CiteScore 2016: 8.8)</span>'
 ---
