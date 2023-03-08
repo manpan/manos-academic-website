@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/panda2019post.pdf'
 link: 'https://www.sciencedirect.com/science/article/pii/S0167404819300641'
 citation: 'Sakshyam Panda, Daniel W. Woods, Aron Laszka, Andrew Fielder, Emmanouil Panaousis (2019). 
 	&quot;Post-incident audits on cyber insurance discounts.&quot;
-	<i>Computers & Security</i>, 87, 101593.
+	<i>Computers & Security</i>, 87, 101593.<br>
 	<span style="color:#2979ab;">(JCR 2019: 3.579, CiteScore 2019: 7.5)</span>'
 ---

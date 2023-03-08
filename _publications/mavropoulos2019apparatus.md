@@ -10,6 +10,6 @@ github: 'https://github.com/Or3stis/apparatus'
 link: 'https://www.sciencedirect.com/science/article/pii/S1570870518305936'
 citation: 'Orestis Mavropoulos, Haralambos Mouratidis, Andrew Fish, Emmanouil Panaousis, Christos Kalloniatis (2019). 	
 		&quot;Apparatus: A framework for security analysis in internet of things systems.&quot;
-		<i>Ad Hoc Networks, Vol. 92, 101743</i>. 
+		<i>Ad Hoc Networks, Vol. 92, 101743</i>. <br>
 		<span style="color:#2979ab;">(JCR 2019: 3.643, CiteScore 2019: 7.8)</span>'
 ---

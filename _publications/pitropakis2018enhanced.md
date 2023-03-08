@@ -10,6 +10,6 @@ slidesurl: '/files/pdf/slides/pitropakis2018enhanced-slides.pdf'
 link: 'https://doi.org/10.1007/978-3-319-98385-1_15'
 citation: 'Nikolaos Pitropakis, Emmanouil Panaousis, Alkiviadis Giannakoulias, George Kalpakis, Rodrigo Diaz Rodriguez, Panayiotis Sarigiannidis (2009). 
   &quot;An enhanced cyber attack attribution framework.&quot;
-  <i>2018 International Conference on Trust, Privacy & Security in Digital Business (TrustBus 2018)</i>.
+  <i>2018 International Conference on Trust, Privacy & Security in Digital Business (TrustBus 2018)</i>.<br>
   <span style="color:#2979ab;">(CORE2018 Ranking: B)</span>'
 ---

@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/cui2020efficient.pdf'
 link: 'https://ieeexplore.ieee.org/document/9099301'
 citation: 'Yuanbo Cui, Fei Gao, Yijie Shi, Wei Yin, Emmanouil Panaousis, Kaitai Liang (2020). 
 	&quot;An efficient attribute-based multi-keyword search scheme in encrypted keyword generation.&quot; 
-	<i>IEEE Access</i>, 8, 99024-99036.
+	<i>IEEE Access</i>, 8, 99024-99036. <br>
 	<span style="color:#2979ab;">(JCR 2020: 4.1, CiteScore 2020: 4.8)</span>'
 ---

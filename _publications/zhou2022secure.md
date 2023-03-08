@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/zhou2022secure.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S2214212622002307'
 citation: 'Junwei Zhou, Botian Lei, Huile Lang, Emmanouil Panaousis, Kaitai Liang, Jianwen Xiang (2022). 
   &quot;Secure genotype imputation using homomorphic encryption.&quot;
-  <i>Journal of Information Security and Applications (JISA)</i>, 72, 103386.
+  <i>Journal of Information Security and Applications (JISA)</i>, 72, 103386.<br>
   <span style="color:#2979ab;">(JCR 2021: 4.96, CiteScore 2021: 7.6)</span>'
 ---

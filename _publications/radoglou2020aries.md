@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/radoglou2020aries.pdf'
 link: 'https://www.mdpi.com/1424-8220/20/18/5305'
 citation: 'Panagiotis Radoglou Grammatikis, Panagiotis Sarigiannidis, Georgios Efstathopoulos, Emmanouil Panaousis (2020). 
   &quot;ARIES: A novel multivariate intrusion detection system for smart grid.&quot;
-  <i>Sensors 2020</i>, 20(18), 5305.
+  <i>Sensors 2020</i>, 20(18), 5305.<br>
    <span style="color:#2979ab;">(JCR 2019: 3.275, CiteScore 2019: 5.0)</span>'
 ---

@@ -10,6 +10,6 @@ paperurl: '/files/pdf/papers/xu2020ttsvd.pdf'
 link: 'https://ieeexplore.ieee.org/document/9129792'
 citation: 'Guangquan Xu, Yuyang Zhao, Litao Jiao, Meiqi Feng, Zhong Ji, Emmanouil Panaousis, Si Chen, Xi Zheng (2022). 
   &quot;TT-SVD: An efficient sparse decision making model with two-way trust recommendation in the AI enabled IoT systems.&quot;
-  <i>IEEE Internet of Things</i>, 8(12), 9559 - 9567.
+  <i>IEEE Internet of Things</i>, 8(12), 9559 - 9567.<br>
   <span style="color:#2979ab;">(JCR 2019: 9.515, CiteScore 2020: 13.9)</span>'
 ---

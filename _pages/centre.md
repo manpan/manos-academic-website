@@ -5,7 +5,7 @@ permalink: /centre/
 author_profile: true
 ---
 
-The [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec) with an annual research expenditure exceeding £1M, comprises a team of 29 faculty members, postdocs, and PhD researchers. Our research focuses on securing smart digital environments, including but not limited to smart buildings, emergency services, and health, by combining scientific excellence with real-world implementation.
+The [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec) with an annual research expenditure exceeding £1M, comprises a team of 35 faculty members, postdocs, and PhD researchers. Our research focuses on securing smart digital environments, including but not limited to smart buildings, emergency services, and health, by combining scientific excellence with real-world implementation.
 
 Our center collaborates with industry, public sector, and academic partners to conduct cutting-edge research in various areas. Our current research areas include Communications and Self-aware systems, IoT Security, Online Harms, Cyber-Physical Security, AI for Security, Threat Modelling, Formal Methods of Security, Cyber Risk Management, Cyber Forensics, Security Economics, Emergency Management, and Privacy. Through these research areas, we aim to develop innovative solutions to address the ever-evolving challenges in securing the digital landscape.
 
@@ -27,30 +27,31 @@ Our center collaborates with industry, public sector, and academic partners to c
 - Dr Ralph Barthel, Senior Lecturer in Disruptive Technologies <i class="ai ai-google-scholar">[gs](https://scholar.google.co.uk/citations?hl=en&user=vK-SmvwAAAAJ&view_op=list_works&sortby=pubdate). 
 
 
-## <span style="color:#2979ab;">Postdoctoral Researchers</span>  
-
-<div style="background-color: #ddf4ff; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0969da;">
-This section is currently being updated
+<div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
+The following sections are currently being updated.
 </div>
 
+## <span style="color:#2979ab;">Postdoctoral Researchers</span>  
+
 ### Current
-- Dr Sakshyam Panda, Researcher in Cyber Security and Privacy, Horizon Europe TANGO. 
-- Dr Hsueh-Ju Chen, Researcher in Security for AI, EPSRC CHAI.
-- Dr William Oliff (Research Fellow for H2020 RESCUER project and previously Research Fellow in Computation Offloading for H2020 C4IIoT).
+- Dr Sakshyam Panda - Privacy risk quantification of AI, Horizon Europe TANGO. 
+- Dr Hsueh-Ju (Eddy) Chen - Security for AI-driven domestic life, EPSRC CHAI.
+- Dr William Oliff - Tracking and occupancy detection, H2020 RESCUER (previously in H2020 C4IIoT).
 
 ### Previous
-- Dr Caxton Okoh, Researcher in Cyber risk optimisation, H2020 CUREX.
+- Dr Caxton Okoh - Researcher in Cyber risk optimisation, H2020 CUREX.
 - Dr Ijaz Ahmed – Model-based resilient ecommerce ecosystem, H2020 ENSURESEC.
 - Dr Areeg Samir – AI-based security monitoring of ecommerce ecosystem, H2020 ENSURESEC.
 - Dr Xing Liang –  Explainable security of ecommerce ecosystem, H2020 ENSURESEC.
-- Dr Harry Whitby - Research Fellow for H2020 RESCUER (also in ENSURESEC and previously also in EUNOMIA projects).
-
 
 ## <span style="color:#2979ab;">PhD students (doctoral researchers)</span> 
 ### Current
-- Emily Parsons, IoT Cyber Risk Management. 
-- Claire Stretch, Cyber Risk Optimisation for Small Businesses.
-- L. Akhter, Model-based Software Security.
+- Dennis Ivory - Human-as-a-security-sensor in the Internet of Things
+- William Oliff - Context-enhanced indoor localisation, tracking and occupancy detection
+- Blessing Odeleye - Cyber security of VR environments
+- Emily Parsons - Cyber risk management in IoT
+- Lal Akhter - Model-based Software Security Assurance
+- Claire Stretch - Cyber Risk Optimisation for Small Businesses.
 
 ### Alumni
 - Ali Jaddoa(2018-2022), Multi-Criteria decision support for energy-efficient IoT edge computing offloading. 
@@ -67,13 +68,12 @@ This section is currently being updated
 - Xiaoyi Zhou (2012) Information security based on temporal order and ergodic matrix.
 - Andrew A. Adekunle (2012) Design and analysis of light-weight symmetric cryptographic frameworks and constructs for secure packet mode wireless communication. 
 
-
 ## <span style="color:#2979ab;">Research Assistants</span> 
 
 ### Current
 - Kevin Luu, Junior Research Developer (Inertial Based Localisation).
 - Rytis Venslovas, Junior Research Developer (Data Sharing Orchestration).
-
+- Harry Whitby, Researcher, H2020 RESCUER. 
 
 ### Previous
 - Cameron Noakes (2022) - Researcher in Applications of MITRE ATT&CK framework, H2020 CUREX.
@@ -81,7 +81,7 @@ This section is currently being updated
 - Andreea Firoozbakht (2021-22) - Researcher in Security economics of connected places.
 - Claire Stretch (2020-21) - Researcher in Trustworthiness for smart grid infrastructures, H2020 CUREX, NCSC MERIT.
 - Kokulan Natkunam (2020-21) - Researcher in Cyber risk optimisation, H2020 CUREX, NCSC MERIT.
-- Harry Whitby (2021-22) – Researcher in H2020 ENSURESEC.
+- Harry Whitby (2021-22) – Researcher in H2020 ENSURESEC and EUNOMIA.
 - William Philips  – Researcher in Runtime Security Monitoring, H2020 ENSURESEC.
 - Harsh Patel – Researcher in AI-based Security Monitoring, H2020 ENSURESEC.
 - Aditya Rajput – Researcher in AI-based Security Monitoring, H2020 ENSURESEC.

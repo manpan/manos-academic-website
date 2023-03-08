@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/ahmed2022mitre.pdf'
 link: 'https://doi.org/10.1145/3538969.3544420'
 citation: 'Mohamed G Ahmed, Sakshyam Panda, Emmanouil Panaousis, Christos Xenakis (2022). 
 	&quot;MITRE ATT&CK-driven cyber risk assessment.&quot;
-	<i>Proceedings of the 16th International Conference on Availability, Reliability and Security</i>.  
+	<i>Proceedings of the 16th International Conference on Availability, Reliability and Security</i>.<br> 
 	<span style="color:#2979ab;">(CORE2021 Ranking: B)</span>'
 ---

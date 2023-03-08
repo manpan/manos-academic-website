@@ -10,6 +10,6 @@ link: 'https://arxiv.org/abs/2211.13345'
 slidesurl: '/files/pdf/slides/atefi2022principled-slides.pdf'
 citation: 'Soodeh Atefi, Sakshyam Panda, Manos Panaousis, Aron Laszka (2023). 
 	&quot;Principled data-driven decision support for cyber-forensic investigations.&quot; 
-	<i>37th AAAI Conference on Artificial Intelligence (AAAI 23)</i>. 
+	<i>37th AAAI Conference on Artificial Intelligence (AAAI 23)</i>. <br>
  	<span style="color:#2979ab;">(CORE2021 Ranking: A*)</span>'
 ---

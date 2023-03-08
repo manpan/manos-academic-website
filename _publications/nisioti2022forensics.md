@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/nisioti2021game.pdf'
 link: 'https://doi.org/10.3390/s21165300'
 citation: 'Antonia Nisioti, George Loukas, Alexios Mylonas, Emmanouil Panaousis (2021). 
     &quot;Game-theoretic decision support for cyber forensic investigations.&quot;
-    <i>Forensic Science International: Digital Investigation</i>, 21(16), 5300. 
+    <i>Forensic Science International: Digital Investigation</i>, 21(16), 5300.<br>
     <span style="color:#2979ab;">(JCR 2021: 1.805, CiteScore 2021: 5.0)</span>'
 ---
