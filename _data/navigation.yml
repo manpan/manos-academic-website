@@ -4,8 +4,8 @@ main:
     url: /publications/
   - title: "Projects" # EU, NCSC, EPSRC, Other
     url: /projects/
-  - title: "Centre" #  Faculty, Postdoctoral Researchers, PhD Researchers, Research Assistants
-    url: /centre/
+  - title: "Team" #  Faculty, Postdoctoral Researchers, PhD Researchers, Research Assistants
+    url: /team/
   - title: "Experience" # Teaching, Service, Experience
     url: /experience/
   - title: "Miscellaneous" # Teaching, Service, Experience
