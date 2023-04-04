@@ -7,7 +7,7 @@ date: 2023-04-04
 venue: 'Computers & Security'
 paperurl: '/files/pdf/papers/zhang2023cross.pdf'
 # link: ''
-citation: 'Yunxiao Zhang and Pasquale Malacaria and George Loukas and Emmanouil Panaousis (2023). &quot;CROSS: A Framework for Cyber Risk Optimisation in Smart Homes.&quot;
+citation: 'Yunxiao Zhang, Pasquale Malacaria, George Loukas, Emmanouil Panaousis (2023). &quot;CROSS: A Framework for Cyber Risk Optimisation in Smart Homes.&quot;
     <i>Computers & Security</i> <br> 
     <span style="color:#2979ab;">(JCR 2021: 5.105, CiteScore: 10.1)</span>'
 ---

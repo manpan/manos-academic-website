@@ -7,7 +7,7 @@ date: 2023-01-01
 venue: 'Computers & Security'
 paperurl: '/files/pdf/papers/odeleye2022virtually.pdf'
 link: 'https://www.sciencedirect.com/science/article/pii/S0167404822003431'
-citation: 'Blessing Odeleye and George Loukas and Ryan Heartfield and Georgia Sakellari and Emmanouil Panaousis and Fotios Spyridonis (2023). 
+citation: 'Blessing Odeleye, George Loukas, Ryan Heartfield, Georgia Sakellari, Emmanouil Panaousis, Fotios Spyridonis (2023). 
     &quot;Virtually Secure: A taxonomic assessment of cybersecurity challenges in virtual reality environments.&quot;
     <i>Computers & Security</i>, 124, 102951.<br>
     <span style="color:#2979ab;">(JCR 2021: 5.105, CiteScore: 10.1)</span>'
