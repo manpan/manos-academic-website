@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/chronopoulos2017options
 date: 2017-11-15
 venue: 'IEEE Access'
-paperurl: '/files/pdf/papers/chronopoulos2017options.pdf'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8110826'
 link: 'https://ieeexplore.ieee.org/document/8110826'
 citation: 'Michail Chronopoulos, Emmanouil Panaousis, Jens Grossklags (2017). 
 	&quot;An options approach to cybersecurity investment.&quot; 
