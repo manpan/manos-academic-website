@@ -8,7 +8,6 @@ venue: '2020 Encyclopedia of Cryptography, Security and Privacy'
 paperurl: '/files/pdf/papers/panda2021cyber.pdf'
 link: 'https://doi.org/10.1007/978-3-642-27739-9_1624-1'
 citation: 'Sakshyam Panda, Aristeidis Farao, Emmanouil Panaousis, Christos Xenakis (2021). 
-	&quot;Post-incident audits on cyber insurance discounts.&quot;
-	<i>2020 Encyclopedia of Cryptography, Security and Privacy</i>, 87, 101593.<br>
-	<span style="color:#2979ab;">(JCR 2019: 3.579, CiteScore 2019: 7.5)</span>'
+	&quot;Cyber-Insurance: Past, Present and Future.&quot;
+	<i>2020 Encyclopedia of Cryptography, Security and Privacy</i>, In Encyclopedia of Cryptography, Security and Privacy (pp. 1-4). Berlin, Heidelberg: Springer Berlin Heidelberg.<br>'
 ---
