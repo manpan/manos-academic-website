@@ -6,7 +6,7 @@ permalink: /publication/chen2023privacy
 date: 2023-01-01
 venue: 'Journal of Internet Technology'
 paperurl: '/files/pdf/papers/chen2023privacy.pdf'
-link: 'https://doi.org/10.1007/978-3-030-32430-8_6'
+link: 'https://jit.ndhu.edu.tw/article/view/2840'
 citation: 'Yang Chen, Yang Liu, Jin Pan, Fei Gao, Emmanouil Panaousis (2023) 
 	&quot;Privacy-protecting attribute-based conjunctive keyword search scheme in cloud storage.&quot; 
 	<i>Journal of Internet Technology</i>, 624(1), pp.65-75.'
