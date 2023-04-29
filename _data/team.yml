@@ -106,6 +106,15 @@
   google_scholar: https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate
   #linkedin: manospanaousis
   www: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas
+- name: Dr Ralph Barthel
+  role: Senior Lecturer in Disruptive Technologies
+  bio: Dr. Barthel is Senior Lecturer with research interests in the areas of applied Internet of Things (IoT) technologies, 
+  Human-Data Interaction (HDI) and Computer-Supported Collaborative Learning. He has a PhD from the University of Nottingham 
+  and many years of industry experience in designing human-centered technologies as consultant and chief technology officer. 
+  image: /images/team/RalphBarthelPhoto.jpg
+  #twitter: 
+  google_scholar: https://scholar.google.co.uk/citations?user=vK-SmvwAAAAJ&hl=en
+  www: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/ralph-barthel
 - name: Dr Ivana Tomic
   role: Senior Lecturer in Digital Security and Management
   bio:  Ivana is a Senior Lecturer in Cyber Security. 
@@ -134,6 +143,12 @@
   image: /images/team/SakshyamPandaPhoto.jpg
   google_scholar: https://scholar.google.com/citations?user=8Rwg4pkAAAAJ&hl=en&oi=ao
   #www: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/alireza-esfahani
+- name: Dr Najma Taimoor
+  role: Lecturer in Computer Science
+  bio: 
+  image: /images/team/NajmaTaimoorPhoto.jpg
+  #twitter: 
+  google_scholar: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/najma-taimoor
 - name: Dr Alireza Esfahani
   role: Lecturer in Computer Science
   bio:  Alireza is a Lecturer of Computer Science. He received his PhD degree in 
