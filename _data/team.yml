@@ -106,21 +106,6 @@
   google_scholar: https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate
   #linkedin: manospanaousis
   www: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas
-- name: Dr Ivana Tomic
-  role: Senior Lecturer in Digital Security and Management
-  bio:  Ivana is a Senior Lecturer in Cyber Security. 
-        Her research interests span the areas of control engineering, 
-        cyber-security and wireless communication networks, with a focus on building secure, 
-        resilient and energy-efficient cyber-physical systems. Before joining the University 
-        of Greenwich, she was a Research Associate in the Computing Department at Imperial 
-        College London (AESE research group). During her time at Imperial College, she 
-        worked as a research associate on the S4 Science of Sensor Systems Software EPSRC 
-        programme grant and the IoT in the Park project as a part of the EPSRC PETRAS IoT research hub. 
-  image: /images/team/IvanaTomicPhoto.jpg
-  #twitter: 
-  google_scholar: https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao
-  #linkedin: manospanaousis
-  www: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-ivana-tomic
 - name: Dr Sakshyam Panda
   role: Lecturer in Cyber Security
   bio:  Sakshyam is a Lecturer of Cyber Security with expertise in threat modelling and cyber risk optimisation.
