@@ -134,17 +134,3 @@
   image: /images/team/SakshyamPandaPhoto.jpg
   google_scholar: https://scholar.google.com/citations?user=8Rwg4pkAAAAJ&hl=en&oi=ao
   #www: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/alireza-esfahani
-- name: Dr Alireza Esfahani
-  role: Lecturer in Computer Science
-  bio:  Alireza is a Lecturer of Computer Science. He received his PhD degree in 
-        Telecommunications from the MAP-TELE doctoral program, which is a joint venture of 
-        the University of Minho, University of Aveiro and University of Porto, Portugal in 
-        2017 with distinction and merit. From July 2017 to May 2019, he gained working 
-        experience as a postdoctoral researcher at the Instituto de Telecomunicações in 
-        Portugal. Dr Esfahani’s research is in cyber-security, cryptography, SDN, IoT, 5G 
-        and network coding. 
-  image: /images/team/AlirezaEsfahaniPhoto.jpg
-  #twitter: 
-  google_scholar: https://scholar.google.pt/citations?hl=en&user=QknLal8AAAAJ&view_op=list_works&sortby=pubdate
-  #linkedin: manospanaousis
-  www: https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/alireza-esfahani
