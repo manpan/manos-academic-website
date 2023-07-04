@@ -34,7 +34,7 @@ Research of our members covers a range of topics with the core challenges being:
 - Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab (expertise: Certified sustainable cybersecurity). 
 <!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan). -->
 
-- Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management (expertise: IoT security). 
+- Dr Georgios Mantas, Senior Lecturer in Digital Security & Management (expertise: IoT security). 
 <!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas).  -->
 
 - Dr Sadiq Sani, Senior Lecturer in Cybersecurity (expertise: OT cybersecurity). 
