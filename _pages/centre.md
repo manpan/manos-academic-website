@@ -5,29 +5,49 @@ permalink: /centre/
 author_profile: true
 ---
 
-The [Internet of Things and Security Research Centre](https://www.gre.ac.uk/research/groups/isec) with an annual research expenditure exceeding £1M, comprises a team of 35 faculty members, postdocs, and PhD researchers. Our research focuses on securing smart digital environments, including but not limited to smart buildings, emergency services, and health, by combining scientific excellence with real-world implementation.
+The Centre for Sustainable Cyber Security (CS2) with an annual research expenditure exceeding £1M, comprises a team of 44 faculty members, postdocs, and PhD researchers. CS2 collaborates with industry, public sector, and academic partners to conduct cutting-edge research 
 
-Our center collaborates with industry, public sector, and academic partners to conduct cutting-edge research in various areas. Our current research areas include Communications and Self-aware systems, IoT Security, Online Harms, Cyber-Physical Security, AI for Security, Threat Modelling, Formal Methods of Security, Cyber Risk Management, Cyber Forensics, Security Economics, Emergency Management, and Privacy. Through these research areas, we aim to develop innovative solutions to address the ever-evolving challenges in securing the digital landscape.
+Research of our members covers a range of topics with the core challenges being:
+* Challenge 1: Secure Cyber-Physical Systems 
+* Challenge 2: Trustworthy AI
+* Challenge 3: Improving Efficiency of Digital Forensics
+* Challenge 4: Certified Sustainable Security and Privacy
+
 
 ## <span style="color:#2979ab;">Faculty</span> 
 
-- Professor George Loukas, Professor of Cyber Security and Head of ISEC <i class="ai ai-google-scholar"></i>[gs](https://scholar.google.com/citations?user=AfbIsPgAAAAJ&hl=en/i), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/george-loukas).
-- Professor Manos Panaousis, Professor of Cyber Security and Head of Cyber Risk <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis). 
-- Professor Jixin Ma, Professor of Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=nMKdeZIAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/jixin-ma).
-- Dr Georgia Sakellari, Deputy Head of ISEC and Associate Professor of Networked Systems <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=LEShwBYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgia-sakellari). 
+- Prof. George Loukas, Professor of Cyber Security and Director of CS2.
+
+- Prof. Manos Panaousis, Professor of Cyber Security and Deputy Director of CS2 
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis).  -->
+
+- Prof. Özgür H. Çınar, Professor of Law, Topics: Law and Privacy. 
+
+- Prof. George Samakovitis, Professor of Fintech. Topics: Fintech, blockchain and privacy.  
+
+- Dr Georgia Sakellari, Associate Professor of Networked Systems. 
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=LEShwBYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgia-sakellari).  -->
+
 - Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan).
+
 - Dr Diane Gan, Principal Lecturer in Computer Security and Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/diane-gan). 
+
 - Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas). 
+
 - Dr Anatolij Bezemskij, Senior Lecturer in Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=POdWFs8AAAAJ&hl=en&oi=ao).
+
 - Dr Sadiq Sani, Senior Lecturer in Cybersecurity <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=4mxGXzoAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani).
+
 - Dr David Cresty, Senior Lecturer in Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=OuEvcD4AAAAJ&hl=en&oi=ao). 
+
 - Dr Ivana Tomic, Senior Lecturer in Cyber Security <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-ivana-tomic).
+
 - Dr Tuan Vuong, Senior Lecturer in Computer Science, [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong).
-- Dr Alireza Esfahani, Lecturer in Electrical, Electronic and Computer Engineering, <i class="ai ai-google-scholar">[gs](https://scholar.google.pt/citations?hl=en&user=QknLal8AAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/alireza-esfahani). 
+
 - Dr Ralph Barthel, Senior Lecturer in Disruptive Technologies <i class="ai ai-google-scholar">[gs](https://scholar.google.co.uk/citations?hl=en&user=vK-SmvwAAAAJ&view_op=list_works&sortby=pubdate). 
 
 
-<div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
+<!-- <div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
 The following sections are currently being updated.
 </div>
 
@@ -90,7 +110,7 @@ The following sections are currently being updated.
 - Vikalp Jaiswal – Researcher in Digital rights and their protection, ExMachina.
 - Rohan Kathpal (2018) - Junior Software developer in Edge Computing.
 - Alexandru Aurescu (2018) - Junior Software developer in Edge Computing.
- 
+  -->
 
 
 
