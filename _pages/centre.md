@@ -16,36 +16,53 @@ Research of our members covers a range of topics with the core challenges being:
 
 ## <span style="color:#2979ab;">Faculty</span> 
 
-- Prof. George Loukas, Professor of Cyber Security and Director of CS2.
+- Prof. George Loukas, Professor of Cyber Security and Director of CS2 (expertise: Human-centric cyber security).
 
-- Prof. Manos Panaousis, Professor of Cyber Security and Deputy Director of CS2 
+- Prof. Manos Panaousis, Professor of Cyber Security and Deputy Director of CS2 (expertise: Cyber and privacy risk management).
 <!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis).  -->
 
-- Prof. Özgür H. Çınar, Professor of Law, Topics: Law and Privacy. 
+- Prof. Özgür H. Çınar, Professor of Law (expertise: Law and privacy). 
 
-- Prof. George Samakovitis, Professor of Fintech. Topics: Fintech, blockchain and privacy.  
+- Prof. George Samakovitis, Professor of Fintech (expertise: Fintech, blockchain and privacy). 
 
-- Dr Georgia Sakellari, Associate Professor of Networked Systems. 
+- Dr Diane Gan, Principal Lecturer in Computer Security and Forensics (expertise: Digital forensics). 
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/diane-gan).  -->
+
+- Dr Georgia Sakellari, Associate Professor of Networked Systems (expertise: Resilient Internet of Things). 
 <!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=LEShwBYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgia-sakellari).  -->
 
-- Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan).
+- Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab (expertise: Certified sustainable cybersecurity). 
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan). -->
 
-- Dr Diane Gan, Principal Lecturer in Computer Security and Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/diane-gan). 
+- Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management (expertise: IoT security). 
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas).  -->
 
-- Dr Georgios (George) Mantas, Senior Lecturer in Digital Security & Management <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas). 
+- Dr Sadiq Sani, Senior Lecturer in Cybersecurity (expertise: OT cybersecurity). 
+  <!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=4mxGXzoAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani). -->
 
-- Dr Anatolij Bezemskij, Senior Lecturer in Computer Science <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=POdWFs8AAAAJ&hl=en&oi=ao).
+- Dr Anatolij Bezemskij, Senior Lecturer in Computer Science (expertise: Cyber-physical threat detection).
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=POdWFs8AAAAJ&hl=en&oi=ao). -->
 
-- Dr Sadiq Sani, Senior Lecturer in Cybersecurity <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=4mxGXzoAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani).
+- Dr David Cresty, Senior Lecturer in Forensics (expertise: Digital forensics).
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=OuEvcD4AAAAJ&hl=en&oi=ao).  -->
 
-- Dr David Cresty, Senior Lecturer in Forensics <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=OuEvcD4AAAAJ&hl=en&oi=ao). 
+- Dr Tuan Vuong, Senior Lecturer in Computer Science (expertise: Cyber-physical security).
+<!-- [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong). -->
 
-- Dr Ivana Tomic, Senior Lecturer in Cyber Security <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=2c60tAYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-ivana-tomic).
+- Dr Ralph Barthel, Senior Lecturer in Disruptive Technologies (expertise: Human-data interaction).
+<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.co.uk/citations?hl=en&user=vK-SmvwAAAAJ&view_op=list_works&sortby=pubdate).  -->
 
-- Dr Tuan Vuong, Senior Lecturer in Computer Science, [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong).
+- Dr Muhammad Waqas, Senior Lecturer in Cyber Security (expertise: Wireless communications security).
 
-- Dr Ralph Barthel, Senior Lecturer in Disruptive Technologies <i class="ai ai-google-scholar">[gs](https://scholar.google.co.uk/citations?hl=en&user=vK-SmvwAAAAJ&view_op=list_works&sortby=pubdate). 
+- Dr Nuno Otero, Senior Lecturer in Data Science (expertise: AI privacy).
 
+- Dr Yasmine Arafa, Senior Lecturer (expertise: AI-driven simulations).
+
+- Dr Sakshyam Panda, Lecturer in Cyber Security (expertise: Cyber & privacy risk management). 
+
+- Dr Najma Taimoor, Lecturer in Computer Science (expertise: Secure healthcare). 
+
+- Mr James Crabtree, Lecturer in Cyber Security (expertise: Digital forensics).
 
 <!-- <div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
 The following sections are currently being updated.
