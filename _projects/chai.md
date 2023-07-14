@@ -12,9 +12,9 @@ permalink: /project/chai
 date: 2020-09-28
 citation: '<b>Role</b>: co.I., University of Greenwich.<br>
 <b>Research topics:</b> Smart-home security, AI attacks. <br>
-<b>Team members:</b> Dr Hsueh-Ju Chen.<br> 
+<b>Team members:</b> Dr Hsueh-Ju Chen, Prof George Loukas (PI).<br> 
 <b>Funder:</b> <a href = "https://www.ukri.org/councils/epsrc/">Engineering and Physical Sciences Research Council</a> as part of the <a href = "https://gow.epsrc.ukri.org/NGBOViewPanel.aspx?PanelId=1-7RZQS3">Security for all in an AI enabled society</a> panel with EPSRC references EP/T026812/1, EP/T026596/1, EP/T026707/1, EP/T026820/1.<br>
 The project coordinator, Professor Loukas, summarises CHAI <a href="https://www.youtube.com/watch?v=DgP9gzkLmys">here</a>, as well as a related TedX <a href="https://www.youtube.com/watch?v=pb1A5w4f3PA">talk</a>.<br>
-<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://tango-project.eu">project website</a>
+<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://project-chai.org">project website</a>
 <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1">EPSRC GoW</a>'
 ---

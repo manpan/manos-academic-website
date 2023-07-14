@@ -10,6 +10,6 @@ permalink: /project/sesame
 date: 2015-07-01
 citation: '<b>Role</b>: co.I., University of Brighton.<br>
 <b>Research topics:</b> 5G threat modelling.<br>
-<b>Funder:</b> <a href = "https://commission.europa.eu/index_en">European Commission</a> as part of the <a href = "https://cinea.ec.europa.eu/programmes/horizon-europe/h2020-programme_en">H2020 programme</a>with Grant agreement ID 671596.<br>
+<b>Funder:</b> <a href = "https://commission.europa.eu/index_en">European Commission</a> as part of the <a href = "https://cinea.ec.europa.eu/programmes/horizon-europe/h2020-programme_en">H2020 programme</a> with Grant agreement ID 671596.<br>
 <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://cordis.europa.eu/project/id/671596">cordis</a>'
 ---

@@ -6,7 +6,7 @@ permalink: /project/vision
 date: 2015-07-01
 citation: '<b>Role</b>: co.I., University of Brighton.<br>
 <b>Research topics:</b> Privacy requirements engineering.<br>
-<b>Funder:</b> <a href = "https://commission.europa.eu/index_en">European Commission</a> as part of the <a href = "https://cinea.ec.europa.eu/programmes/horizon-europe/h2020-programme_en">H2020 programme</a>with Grant agreement ID 101070052.<br>
+<b>Funder:</b> <a href = "https://commission.europa.eu/index_en">European Commission</a> as part of the <a href = "https://cinea.ec.europa.eu/programmes/horizon-europe/h2020-programme_en">H2020 programme</a> with Grant agreement ID 101070052.<br>
 <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://cordis.europa.eu/project/id/653642">cordis</a>'
 ---
 

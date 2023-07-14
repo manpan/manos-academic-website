@@ -8,6 +8,5 @@ citation: '<b>Role</b>: P.I., University of Surrey.<br>
 <b>Research topics:</b> Game-theoretic deception strategies, honeypots, intrusion detection.<br>
 <b>Team members:</b> Dmitry Fedorenko (Junior researcher), Sakshyam Panda (PhD researcher), Nadia Boumkheld (postdoctoral researcher).<br> 
 <b>Funder:</b> <a href = "https://commission.europa.eu/index_en">European Commission</a> as part of the <a href = "https://cinea.ec.europa.eu/programmes/horizon-europe/h2020-programme_en">H2020 programme</a> with Grant agreement ID 787011.<br>
-<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://curex-project.eu">project website</a>
 <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://cordis.europa.eu/project/id/787011">cordis</a>'
 ---

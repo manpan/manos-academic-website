@@ -7,6 +7,5 @@ date: 2020-04-01
 citation: '<b>Role</b>: P.I., University of Greenwich.<br>
 <b>Research topics:</b> Cyber risk optimisation, cyber investmments.<br>
 <b>Team members:</b> Kokulan Natkunam, Dr Sakshyam Panda.<br> 
-<b>Funder:</b> <a href = "https://www.riscs.org.uk">Research Institute in Sociotechnical Cyber Security</a> (RISCS) and the <a href="https://www.ncsc.gov.uk">National Cyber Security Centre</a> (NCSC). <br>
-<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://www.riscs.org.uk/project/merit-a-framework-to-model-and-incentivise-cyber-security-investment-decisions/">project website</a>'
+<b>Funder:</b> <a href = "https://www.riscs.org.uk">Research Institute in Sociotechnical Cyber Security</a> (RISCS) and the <a href="https://www.ncsc.gov.uk">National Cyber Security Centre</a> (NCSC).'
 ---

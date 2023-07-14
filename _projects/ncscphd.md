@@ -6,7 +6,6 @@ permalink: /project/ncscphd
 date: 2019-05-01
 citation: '<b>Role</b>: P.I., University of Surrey.<br>
 <b>Research topics:</b> 5G security, threat modelling.<br>
-<b>Team members:</b> Kokulan Natkunam, Dr Sakshyam Panda.<br> 
-<b>Funder:</b> <a href="https://www.ncsc.gov.uk">National Cyber Security Centre</a> (NCSC). <br>
-<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://www.surrey.ac.uk/fees-and-funding/studentships/dynamic-protection-framework-against-advanced-persistent-threats-5g">project website</a>'
+<b>Team members:</b> Robert Pell, Sotiris Moschoyiannis (current Surrey PI).<br> 
+<b>Funder:</b> <a href="https://www.ncsc.gov.uk">National Cyber Security Centre</a> (NCSC).
 ---

@@ -6,8 +6,6 @@ main:
     url: /projects/
   - title: "Team" #  Faculty, Postdoctoral Researchers, PhD Researchers, Research Assistants
     url: /team/
-  - title: "Experience" # Teaching, Service, Experience
-    url: /experience/
   - title: "Miscellaneous" # Teaching, Service, Experience
     url: /miscellaneous/
   - title: "Contact" # Contact
