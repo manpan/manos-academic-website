@@ -6,7 +6,7 @@ main:
     url: /projects/
   - title: "Team" #  Faculty, Postdoctoral Researchers, PhD Researchers, Research Assistants
     url: /team/
-  - title: "Miscellaneous" # Teaching, Service, Experience
-    url: /miscellaneous/
+  # - title: "Miscellaneous" # Teaching, Service, Experience
+  #   url: /miscellaneous/
   - title: "Contact" # Contact
     url: /contact/
