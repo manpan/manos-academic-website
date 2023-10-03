@@ -9,6 +9,6 @@ paperurl: '/files/pdf/papers/panda2023privacy.pdf'
 link: 'https://dl.acm.org/doi/abs/10.1145/3600160.3605073'
 citation: 'Sakshyam Panda, Emmanouil Panaousis, George Loukas, Konstantinos Kentrotis (2023). 
 	&quot;Privacy impact assessment of cyber attacks on connected and autonomous vehicles.&quot;
-	<i>Proceedings of the 18th International Conference on Availability, Reliability and Security (ARES 2023).</i>.<br> 
+	<i>Proceedings of the 18th International Conference on Availability, Reliability and Security (ARES 2023).</i><br> 
 	<span style="color:#2979ab;">(CORE2023 Ranking: B)</span>'
 ---
