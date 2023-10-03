@@ -10,5 +10,4 @@ link: 'https://link.springer.com/article/10.1007/s10207-023-00741-8#:~:text=The%
 citation: 'Aristeidis Farao, Georgios Paparis, Sakshyam Panda, Emmanouil Panaousis, Apostolis Zarras, Christos Xenakis (2023). 
 	&quot;INCHAIN: a cyber insurance architecture with smart contracts and self-sovereign identity on top of blockchain.&quot; 
 	<i>International Journal of Information Security</i>, 13, 15. <br>'
-	# <span style="color:#2979ab;">(JCR 2021: 1.988, CiteScore: 4.5)</span>
 ---
