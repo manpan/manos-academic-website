@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Cyber Security and Deputy Head of the Centre for Sustainable Cyber Security (CS2) at the University of Greenwich, London, UK. My research revolves around modeling, assessing and mitigating cybersecurity and privacy risks. I'm currently researching methods of assessing cyber and privacy risks posed by AI. 
+I am a Professor of Cyber Security and Deputy Head of the Centre for Sustainable Cyber Security (CS2) at the University of Greenwich, London, UK. My research revolves around modeling, assessing and mitigating cybersecurity and privacy risks. I'm currently researching methods of assessing cyber and privacy risks posed by artificial intelligence and machine learning. 
 
 <!-- <div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
 <b>News</b>: (March 2023) A new Senior Lecturer (tenured) <a href="https://jobs.gre.ac.uk/vacancy.aspx?ref=3163-E">role</a> (Research and Teaching pathway) to join our <a href="https://www.manospanaousis.com/centre/">Centre</a> - (seeking candidates with a strong track record of high-impact publications and ability to secure research grants). This position is part of the strategic expansion of the University of Greenwich in cyber security.</div> -->
