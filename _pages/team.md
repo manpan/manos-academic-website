@@ -8,18 +8,16 @@ author_profile: true
 The Centre for Sustainable Cyber Security (CS2) with an annual research expenditure exceeding £1M, comprises a team of 44 faculty members, postdocs, and PhD researchers. CS2 collaborates with industry, public sector, and academic partners to conduct cutting-edge research 
 
 Research of our members covers a range of topics with the core challenges being:
-* Challenge 1: Secure Cyber-Physical Systems 
-* Challenge 2: Trustworthy AI
-* Challenge 3: Improving Efficiency of Digital Forensics
-* Challenge 4: Certified Sustainable Security and Privacy
-
+* Challenge 1: Cyber-Physical System Security
+* Challenge 2: Cyber Risk Mitigation
+* Challenge 3: Certified Security and Privacy
 
 ## <span style="color:#2979ab;">Faculty</span> 
 
-- Prof. George Loukas, Professor of Cyber Security and Director of CS2 (expertise: Human-centric cyber security).
+- Prof. George Loukas, Professor of Cyber Security and Head of CS2 (expertise: Human-centric cyber security).
 
-- Prof. Manos Panaousis, Professor of Cyber Security and Deputy Director of CS2 (expertise: Cyber and privacy risk management).
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis).  -->
+- Prof. Manos Panaousis, Professor of Cyber Security and Deputy Head of CS2 (expertise: Cyber and privacy risk management).
+<i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis). 
 
 - Prof. Özgür H. Çınar, Professor of Law (expertise: Law and privacy). 
 
