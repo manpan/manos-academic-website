@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/papaioannou2023behavioral
 date: 2023-06-12
 venue: 'Proceedings of the 2023 IFIP Networking Conference (IFIP Networking)'
-paperurl: '/files/pdf/papers/panda2023privacy.pdf'
+paperurl: '/files/pdf/papers/papaioannou2023behavioral.pdf'
 link: 'https://doi.org/10.1145/3538969.3544420'
 citation: 'Maria Papaioannou, Georgios Mantas, Emmanouil Panaousis, Aliyah Essop, Jonathan Rodriguez, Victor Sucasas (2023). 
 	&quot;Behavioral biometrics for mobile user authentication: Benefits and limitations.&quot;
