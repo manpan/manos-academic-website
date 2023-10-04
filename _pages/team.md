@@ -17,7 +17,7 @@ Research of our members covers a range of topics with the core challenges being:
 - Prof. George Loukas, Professor of Cyber Security and Head of CS2 (expertise: Human-centric cyber security).
 
 - Prof. Manos Panaousis, Professor of Cyber Security and Deputy Head of CS2 (expertise: Cyber and privacy risk management).
-<i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis). 
+<i class="ai ai-google-scholar">[](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [uog](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis). 
 
 - Prof. Özgür H. Çınar, Professor of Law (expertise: Law and privacy). 
 
