@@ -10,5 +10,5 @@ link: 'https://ieeexplore.ieee.org/document/10114920'
 citation: 'Maria Tsiodra, Sakshyam Panda, Michail Chronopoulos, Emmanouil Panaousis.(2023). 
 	&quot;Cyber risk assessment and optimization: A small business case study.&quot; 
 	<i>IEEE Access</i>, 44467 - 44481. <br>
-	<span style="color:#2979ab;">(JCR 2021: 5.105, CiteScore: 10.1)</span>'
+	<span style="color:#2979ab;">(JCR 2022: 3.9, CiteScore: 9.0)</span>'
 ---
