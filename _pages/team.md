@@ -90,7 +90,7 @@ Expertise: Cyber-physical security
 ([google scholar](https://scholar.google.co.uk/citations?user=EBLg3CkAAAAJ&hl=en&oi=ao)) <br> 
 Expertise: Privacy UX in AI
 
-* [Srinidhi Vasudevan](https://www.gre.ac.uk/people/rep/faculty-of-business/dr-srinidhi-vasudevan), Senior Lecturer in Business Management <br>
+* [Srinidhi Vasudevan](https://www.gre.ac.uk/people/rep/faculty-of-business/dr-srinidhi-vasudevan), Senior Lecturer in Business Management 
 ([google scholar](https://scholar.google.co.uk/citations?user=0J_krXgAAAAJ&hl=en&oi=ao
 )) <br> 
 Expertise: Human-centric cybersecurity and blockchain
