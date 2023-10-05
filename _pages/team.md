@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-The Centre for Sustainable Cyber Security (CS2) with an annual research expenditure exceeding £1M, comprises a team of 44 faculty members, postdocs, and PhD researchers. CS2 collaborates with industry, public sector, and academic partners to conduct cutting-edge research 
+The Centre for Sustainable Cyber Security (CS2) with an annual research expenditure exceeding £1M, comprises a team of more than 40 faculty members, postdocs and PhD researchers. CS2 collaborates with industry, public sector, and academic partners to conduct cutting-edge research 
 
 Research of our members covers a range of topics with the core challenges being:
 * Challenge 1: Cyber-Physical System Security
@@ -111,12 +111,12 @@ Expertise: AI-driven solutions and blockchain
 ([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) <br>
 Expertise: Physical layer and telecommunications security
 
-* [Sakshyam Panda](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/sakshyam-panda), Lecturer in Cyber Security <br>
-([google scholar](https://scholar.google.com/citations?user=8Rwg4pkAAAAJ&hl=en)) 
+* [Sakshyam Panda](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/sakshyam-panda), Lecturer in Cyber Security 
+([google scholar](https://scholar.google.com/citations?user=8Rwg4pkAAAAJ&hl=en)) <br>
 Expertise: Security and privacy for AI
 
 * [Najma Taimoor](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/najma-taimoor), Lecturer in Computer Science 
-([google scholar](https://scholar.google.co.uk/citations?user=_4LaLDwAAAAJ&hl=en&oi=ao)) 
+([google scholar](https://scholar.google.co.uk/citations?user=_4LaLDwAAAAJ&hl=en&oi=ao)) <br>
 Expertise: Reliable and resilient healthcare
 
 
