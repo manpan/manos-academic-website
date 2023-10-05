@@ -54,7 +54,7 @@ Expertise: Resilient Internet of Things
 ([google scholar](https://scholar.google.co.uk/citations?user=p5oLu_4AAAAJ&hl=en)) <br>
 Expertise: Wireless communications security
 
-* [Georgios Mantas](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas), Senior Lecturer in Digital Security & Management Engineering <br>
+* [Georgios Mantas](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas), Senior Lecturer in Digital Security & Management
 ([google scholar](https://scholar.google.co.uk/citations?user=yUlhSfQAAAAJ&hl=en&oi=ao)) <br>
 Expertise: Internet of Things security
 
@@ -111,10 +111,9 @@ Expertise: AI-driven solutions and blockchain
 ([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) 
 Expertise: Physical layer and telecommunications security
 
-* [Sakshyam Panda](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/sakshyam-panda), Lecturer in Cyber Security 
+* [Sakshyam Panda](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/sakshyam-panda), Lecturer in Cyber Security <br>
 ([google scholar](https://scholar.google.com/citations?user=8Rwg4pkAAAAJ&hl=en)) 
 Expertise: Security and privacy for AI
-https://scholar.google.com/citations?hl=en&user=OhdMusUAAAAJ&view_op=list_works&sortby=pubdate
 
 * [Najma Taimoor](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/najma-taimoor), Lecturer in Computer Science 
 ([google scholar](https://scholar.google.co.uk/citations?user=_4LaLDwAAAAJ&hl=en&oi=ao)) 
