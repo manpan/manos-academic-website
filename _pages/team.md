@@ -14,118 +14,111 @@ Research of our members covers a range of topics with the core challenges being:
 
 ## <span style="color:#2979ab;">Faculty</span> 
 
-- Prof. George Loukas, Professor of Cyber Security and Head of CS2 (expertise: Human-centric cyber security).
+* [George Loukas](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/george-loukas), Professor of Cyber Security 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=AfbIsPgAAAAJ)) <br>
+Expertise: Human-centric cyber security.
 
-- Prof. Manos Panaousis, Professor of Cyber Security and Deputy Head of CS2 (expertise: Cyber and privacy risk management).
-<i class="ai ai-google-scholar">[](https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en&oi=ao), [uog](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis). 
+* [Manos Panaousis](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/manos-panaousis), Professor of Cyber Security 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=FRwRt24AAAAJ&view_op=list_works)) <br>
+Expertise: Cyber and privacy risk management.
 
-- Prof. Özgür H. Çınar, Professor of Law (expertise: Law and privacy). 
+* [Jixin Ma](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/jixin-ma), Professor of Computer Science 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=nMKdeZIAAAAJ&view_op=list_works&sortby=pubdate)) <br>
+Expertise: Science  Applied cryptography and AI.
 
-- Prof. George Samakovitis, Professor of Fintech (expertise: Fintech, blockchain and privacy). 
+* [George Samakovitis](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-samakovitis), Professor (Enterprise) of FinTech 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=-uTNUYgAAAAJ&view_op=list_works&sortby=pubdate)) <br>
+Expertise: Fintech, privacy and AML. 
 
-- Dr Diane Gan, Principal Lecturer in Computer Security and Forensics (expertise: Digital forensics). 
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=AiwNvmUAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/diane-gan).  -->
+* [Josh Davis](https://www.gre.ac.uk/people/rep/faculty-of-education-and-health/josh-davis), Professor of Applied Psychology 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=Yev5EfIAAAAJ&view_op=list_works&sortby=pubdate)) <br>
+Expertise: Human-centric identity verification and threat detection
 
-- Dr Georgia Sakellari, Associate Professor of Networked Systems (expertise: Resilient Internet of Things). 
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=LEShwBYAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgia-sakellari).  -->
+* [Özgür H. Çınar](https://www.gre.ac.uk/people/rep/las/ozgur-cinar), Professor of Law 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=FRwRt24AAAAJ&view_op=list_works)) <br>
+Expertise: Law and privacy
 
-- Dr Taimoor Khan, Associate Professor of Cyber Security, Head of Cyber Assurance Lab (expertise: Certified sustainable cybersecurity). 
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=maVZheoAAAAJ&hl=en&oi=ao), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan). -->
+* [Diane Gan](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/diane-gan), Principal Lecturer in Computer Security and Forensics 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=AiwNvmUAAAAJ&view_op=list_works)) <br>
+Expertise: Digital forensics
 
-- Dr Georgios Mantas, Senior Lecturer in Digital Security & Management (expertise: IoT security). 
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=yUlhSfQAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas).  -->
+* [Muhammad Taimoor Khan](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-taimoor-khan), Associate Professor of Cyber Security 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=maVZheoAAAAJ&view_op=list_works)) <br>
+Expertise: Certified sustainable cyber security
 
-- Dr Sadiq Sani, Senior Lecturer in Cybersecurity (expertise: OT cybersecurity). 
-  <!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?hl=en&user=4mxGXzoAAAAJ&view_op=list_works&sortby=pubdate), [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani). -->
+* [Georgia Sakellari](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgia-sakellari), Associate Professor of Networked Systems 
+([google scholar](https://scholar.google.co.uk/citations?hl=en&user=LEShwBYAAAAJ&view_op=list_works&sortby=pubdate)) <br>
+Expertise: Resilient Internet of Things
 
-- Dr Anatolij Bezemskij, Senior Lecturer in Computer Science (expertise: Cyber-physical threat detection).
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=POdWFs8AAAAJ&hl=en&oi=ao). -->
+* [Muhammad Waqas](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-waqas), Senior Lecturer in Cyber Security 
+([google scholar](https://scholar.google.co.uk/citations?user=p5oLu_4AAAAJ&hl=en)) <br>
+Expertise: Wireless communications security
 
-- Dr David Cresty, Senior Lecturer in Forensics (expertise: Digital forensics).
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.com/citations?user=OuEvcD4AAAAJ&hl=en&oi=ao).  -->
+* [Georgios Mantas](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/georgios-mantas), Senior Lecturer in Digital Security & Management Engineering <br>
+([google scholar](https://scholar.google.co.uk/citations?user=yUlhSfQAAAAJ&hl=en&oi=ao)) <br>
+Expertise: Internet of Things security
 
-- Dr Tuan Vuong, Senior Lecturer in Computer Science (expertise: Cyber-physical security).
-<!-- [profile](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong). -->
+* [Anatolij Bezemskij](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/anatolij-bezemskij), Senior Lecturer in Computer Science 
+([google scholar](https://scholar.google.co.uk/citations?user=POdWFs8AAAAJ&hl=en)) <br> 
+Expertise: Cyber-physical threat detection
 
-- Dr Ralph Barthel, Senior Lecturer in Disruptive Technologies (expertise: Human-data interaction).
-<!-- <i class="ai ai-google-scholar">[gs](https://scholar.google.co.uk/citations?hl=en&user=vK-SmvwAAAAJ&view_op=list_works&sortby=pubdate).  -->
+* [Sadiq Sani](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani), Senior Lecturer in Cyber Security <br>
+([google scholar](https://scholar.google.co.uk/citations?user=4mxGXzoAAAAJ&hl=en&oi=ao)) <br> 
+Expertise: Operational Technology cyber security
 
-- Dr Muhammad Waqas, Senior Lecturer in Cyber Security (expertise: Wireless communications security).
+* [David Gresty](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/david-gresty), Senior Lecturer in Disruptive Technologies 
+([google scholar](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/david-gresty)) <br> 
+Expertise: Digital forensics
 
-- Dr Nuno Otero, Senior Lecturer in Data Science (expertise: AI privacy).
+* [Mariusz Pelc](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/mariusz-pelc), Senior Lecturer in Computer Systems and Networking 
+([google scholar](https://scholar.google.co.uk/citations?user=ikv9LOMAAAAJ&hl=en&oi=ao)) <br> 
+Expertise: AI-powered expert cyber systems
 
-- Dr Yasmine Arafa, Senior Lecturer (expertise: AI-driven simulations).
+* [Ivana Tomic](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-ivana-tomic), Senior Lecturer in Cyber Security 
+([google scholar](https://scholar.google.co.uk/citations?user=2c60tAYAAAAJ&hl=en&oi=ao)) <br> 
+Expertise: Internet of Things security
 
-- Dr Sakshyam Panda, Lecturer in Cyber Security (expertise: Cyber & privacy risk management). 
+* [Ismael Essop](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/ismael-essop), Assoc. Prof. (Teaching) of Digital Solutions & Security Engineering 
+([google scholar](https://scholar.google.co.uk/citations?user=BsGAdcQAAAAJ&hl=en&oi=ao)) <br> 
+Expertise: Internet of Things security
 
-- Dr Najma Taimoor, Lecturer in Computer Science (expertise: Secure healthcare). 
+* [Tuan Vuong](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/tuan-vuong), Senior Lecturer in Computer Science 
+([google scholar](https://scholar.google.co.uk/citations?user=-S_skg4AAAAJ&hl=en)) <br> 
+Expertise: Cyber-physical security
 
-- Mr James Crabtree, Lecturer in Cyber Security (expertise: Digital forensics).
+* [Nuno Otero](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/nuno-palmeiro-otero), Senior Lecturer in Data Science 
+([google scholar](https://scholar.google.co.uk/citations?user=EBLg3CkAAAAJ&hl=en&oi=ao)) <br> 
+Expertise: Privacy UX in AI
 
-<!-- <div style="background-color: #CCE5FF; padding: 10px; border-radius: 5px; display: inline-block; box-shadow: inset 0 0 0 1px #0066CC;">
-The following sections are currently being updated.
-</div>
+* [Srinidhi Vasudevan](https://www.gre.ac.uk/people/rep/faculty-of-business/dr-srinidhi-vasudevan), Senior Lecturer in Business Management <br>
+([google scholar](https://scholar.google.co.uk/citations?user=0J_krXgAAAAJ&hl=en&oi=ao
+)) <br> 
+Expertise: Human-centric cybersecurity and blockchain
 
-## <span style="color:#2979ab;">Postdoctoral Researchers</span>  
+* [Ik Soo Lim](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/ik-soo-lim), Senior Lecturer in Computer Science 
+([google scholar](https://scholar.google.co.uk/citations?user=P9LlUIQAAAAJ&hl=en&oi=ao)) <br> 
+Expertise: Trustworthy agent-based systems
 
-### Current
-- Dr Sakshyam Panda - Privacy risk quantification of AI, Horizon Europe TANGO. 
-- Dr Hsueh-Ju (Eddy) Chen - Security for AI-driven domestic life, EPSRC CHAI.
-- Dr William Oliff - Tracking and occupancy detection, H2020 RESCUER (previously in H2020 C4IIoT).
+* [Karim Nasr](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-karim-nasr), Senior Lecturer in Electrical Engineering 
+([scopus](https://www.scopus.com/authid/detail.uri?authorId=8277782300)) <br> 
+Expertise: Physical layer and telecommunications security
 
-### Previous
-- Dr Caxton Okoh - Researcher in Cyber risk optimisation, H2020 CUREX.
-- Dr Ijaz Ahmed – Model-based resilient ecommerce ecosystem, H2020 ENSURESEC.
-- Dr Areeg Samir – AI-based security monitoring of ecommerce ecosystem, H2020 ENSURESEC.
-- Dr Xing Liang –  Explainable security of ecommerce ecosystem, H2020 ENSURESEC.
+* [Yasmine Arafa](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/yasmine-arafa), Senior Lecturer in Computer Science 
+([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) 
+Expertise: AI-driven solutions and blockchain
 
-## <span style="color:#2979ab;">PhD students (doctoral researchers)</span> 
-### Current
-- Dennis Ivory - Human-as-a-security-sensor in the Internet of Things
-- William Oliff - Context-enhanced indoor localisation, tracking and occupancy detection
-- Blessing Odeleye - Cyber security of VR environments
-- Emily Parsons - Cyber risk management in IoT
-- Lal Akhter - Model-based Software Security Assurance
-- Claire Stretch - Cyber Risk Optimisation for Small Businesses.
+* [Kamran Pedram](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-kamran-pedram), Senior Lecturer in Electrical & Electronic Engineering 
+([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) 
+Expertise: Physical layer and telecommunications security
 
-### Alumni
-- Ali Jaddoa(2018-2022), Multi-Criteria decision support for energy-efficient IoT edge computing offloading. 
-- Antonia Nisioti (2022), Supporting the optimal investigation of multi-stage cyber attacks. 
-- Terry Brett (2021) Understanding contagion spreading processes of cyber security threats through social networks.
-- Anatolij Bezemskij (2017) Detecting cyber-physical threats against autonomous robotic systems in routine missions. 
-- Tuan Phan Vuong (2017) Cyber-physical intrusion detection for robotic vehicles. 
-- David Chadwick (2016) Defining a formal model of edutainment that enhances the learning of cyber security subjects by higher education students.
-- Ryan John Heartfield (2017) Utilising the concept of human-as-a-security-sensor for detecting semantic social engineering attacks. 
-- Darren Hurley-Smith (2015) Virtual closed networks: optimised security for autonomous MANETs. 
-- Robert David Sparrow (2018) A novel approach to symmetric cryptographic secured communication links for real-time teleoperation and telemetry. 
-- Khurram Shahzad (2015) An investigation of mechanisms to mitigate zero-day computer worms within computer networks. 
-- Muhammad Aminu Ahmad (2017) An investigation of network countermeasure against fast self-propagating malware. 
-- Xiaoyi Zhou (2012) Information security based on temporal order and ergodic matrix.
-- Andrew A. Adekunle (2012) Design and analysis of light-weight symmetric cryptographic frameworks and constructs for secure packet mode wireless communication. 
+* [Sakshyam Panda](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/sakshyam-panda), Lecturer in Cyber Security 
+([google scholar](https://scholar.google.com/citations?user=8Rwg4pkAAAAJ&hl=en)) 
+Expertise: Security and privacy for AI
+https://scholar.google.com/citations?hl=en&user=OhdMusUAAAAJ&view_op=list_works&sortby=pubdate
 
-## <span style="color:#2979ab;">Research Assistants</span> 
-
-### Current
-- Kevin Luu, Junior Research Developer (Inertial Based Localisation).
-- Rytis Venslovas, Junior Research Developer (Data Sharing Orchestration).
-- Harry Whitby, Researcher, H2020 RESCUER. 
-
-### Previous
-- Cameron Noakes (2022) - Researcher in Applications of MITRE ATT&CK framework, H2020 CUREX.
-- Emma Scott (2021) - Researcher in Security for AI-enabled smart homes, EPSRC CHAI. 
-- Andreea Firoozbakht (2021-22) - Researcher in Security economics of connected places.
-- Claire Stretch (2020-21) - Researcher in Trustworthiness for smart grid infrastructures, H2020 CUREX, NCSC MERIT.
-- Kokulan Natkunam (2020-21) - Researcher in Cyber risk optimisation, H2020 CUREX, NCSC MERIT.
-- Harry Whitby (2021-22) – Researcher in H2020 ENSURESEC and EUNOMIA.
-- William Philips  – Researcher in Runtime Security Monitoring, H2020 ENSURESEC.
-- Harsh Patel – Researcher in AI-based Security Monitoring, H2020 ENSURESEC.
-- Aditya Rajput – Researcher in AI-based Security Monitoring, H2020 ENSURESEC.
-- Asma Saleem – Researcher in Model-based resilient ecommerce ecosystem, H2020 ENSURESEC.
-- Sagar Samala – Researcher in Design-time security of ecommerce applications, H2020 ENSURESEC.
-- Vikalp Jaiswal – Researcher in Digital rights and their protection, ExMachina.
-- Rohan Kathpal (2018) - Junior Software developer in Edge Computing.
-- Alexandru Aurescu (2018) - Junior Software developer in Edge Computing.
-  -->
+* [Najma Taimoor](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/najma-taimoor), Lecturer in Computer Science 
+([google scholar](https://scholar.google.co.uk/citations?user=_4LaLDwAAAAJ&hl=en&oi=ao)) 
+Expertise: Reliable and resilient healthcare
 
 
 <!-- ## <span style="color:#2979ab;">Faculty</span> 
