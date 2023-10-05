@@ -104,11 +104,11 @@ Expertise: Trustworthy agent-based systems
 Expertise: Physical layer and telecommunications security
 
 * [Yasmine Arafa](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/yasmine-arafa), Senior Lecturer in Computer Science 
-([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) 
+([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) <br>
 Expertise: AI-driven solutions and blockchain
 
 * [Kamran Pedram](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-kamran-pedram), Senior Lecturer in Electrical & Electronic Engineering 
-([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) 
+([google scholar](https://www.scopus.com/authid/detail.uri?authorId=6603431940)) <br>
 Expertise: Physical layer and telecommunications security
 
 * [Sakshyam Panda](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/sakshyam-panda), Lecturer in Cyber Security <br>
