@@ -62,7 +62,7 @@ Expertise: Internet of Things security
 ([google scholar](https://scholar.google.co.uk/citations?user=POdWFs8AAAAJ&hl=en)) <br> 
 Expertise: Cyber-physical threat detection
 
-* [Sadiq Sani](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani), Senior Lecturer in Cyber Security <br>
+* [Sadiq Sani](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/dr-sadiq-sani), Senior Lecturer in Cyber Security 
 ([google scholar](https://scholar.google.co.uk/citations?user=4mxGXzoAAAAJ&hl=en&oi=ao)) <br> 
 Expertise: Operational Technology cyber security
 
@@ -78,7 +78,7 @@ Expertise: AI-powered expert cyber systems
 ([google scholar](https://scholar.google.co.uk/citations?user=2c60tAYAAAAJ&hl=en&oi=ao)) <br> 
 Expertise: Internet of Things security
 
-* [Ismael Essop](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/ismael-essop), Assoc. Prof. (Teaching) of Digital Solutions & Security Engineering 
+* [Ismael Essop](https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/ismael-essop), Assoc. Prof. (Teaching) of Digital Solutions & Security Eng. 
 ([google scholar](https://scholar.google.co.uk/citations?user=BsGAdcQAAAAJ&hl=en&oi=ao)) <br> 
 Expertise: Internet of Things security
 
