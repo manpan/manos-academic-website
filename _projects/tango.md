@@ -5,7 +5,7 @@ collection: projects
 permalink: /project/tango
 date: 2022-09-01
 citation: '<b>Role</b>: P.I., University of Greenwich.<br>
-<b>Research topics:</b> Privacy risk management, AI trustworthiness.<br>
+<b>Research topics:</b> Privacy risk management, AI Trustworthiness.<br>
 <b>Team members:</b> Dr Sakshyam Panda.<br> 
 <b>Funder:</b> <a href = "https://www.ukri.org">UKRI</a> as part of the <a href = "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en">Horizon Europe programme</a> with Grant agreement ID 101070052.<br>
 <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://tango-project.eu">project website</a>
