@@ -6,6 +6,7 @@ permalink: /project/sun
 date: 2022-11-13
 citation: '<b>Role</b>: co.I., University of Greenwich.<br>
 <b>Research topics:</b> Intrusion detection for XR systems.<br>
+<b>Team members:</b> Prof George Loukas (PI).<br> 
 <b>Funder:</b> <a href = "https://www.ukri.org">UKRI</a> as part of the <a href = "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en">Horizon Europe programme</a> with Grant agreement ID 101092612.<br>
 <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i><a href = "https://cordis.europa.eu/project/id/101092612">cordis</a>'
 ---
